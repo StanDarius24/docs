@@ -22,3 +22,5 @@ $ dropdb mydb
 (For this command, the database name does not default to the user account name. You always need to specify it.) This action `physically removes` all files associated with the database and cannot be undone, so this should only be done with a great deal of forethought.
 
 More about `createdb` and `dropdb` can be found in `createdb` and `dropdb` respectively.
+
+#postgresql 

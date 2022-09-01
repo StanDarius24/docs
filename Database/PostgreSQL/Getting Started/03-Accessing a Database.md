@@ -12,11 +12,11 @@ $ psql mydb
 
 Output:
 ``` shell
-	mydb=>
+mydb=>
 ```
 or
 ```shell
-	mydb=#
+mydb=#
 ```
 
 The last line printed out by` psql` is the prompt, and it indicates that psql is listening to you and that you can type `SQL` queries into a work space maintained by `psql`. Try out these commands:
@@ -46,3 +46,5 @@ To get out of psql, type:
  mydb=> \q
 ```
 
+
+#postgresql 

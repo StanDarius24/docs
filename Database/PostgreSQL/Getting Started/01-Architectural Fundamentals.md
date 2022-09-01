@@ -6,3 +6,5 @@ PostgreSQL uses a client/server model.
 
 As is typical of client/server applications, the client and the server can be on different hosts. In that case they communicate over a ``TCP/IP`` network connection.
 The ``PostgreSQL`` server can handle multiple concurrent connections from clients. To achieve this it starts (“forks”) a new process for each connection. From that point on, the client and the new server process communicate without intervention by the original postgres process. Thus, the supervisor server process is always running, waiting for client connections, whereas client and associated server processes come and go.
+
+#postgresql 
