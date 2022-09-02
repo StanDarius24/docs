@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "4c495c2eac5044f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b1ba03f21ee0a54",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Database/PostgreSQL/03-Advanced Features/05-Inheritance.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b622bb84ed9dd08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "237631ebb45c5356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed548165bf95ddea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9798b252dc119c53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4486d7f7deeec2a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "587658028fda4d19",
+    "type": "split",
+    "children": [
+      {
+        "id": "041781758408eb7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6135895c8098dd7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Database/PostgreSQL/03-Advanced Features/05-Inheritance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2b1bb205fab2040",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Database/PostgreSQL/03-Advanced Features/05-Inheritance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3bc30b214c74145",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "62c35412c0fb2f3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Database/PostgreSQL/03-Advanced Features/05-Inheritance.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ed548165bf95ddea",
+  "lastOpenFiles": [
+    "Database/PostgreSQL/03-Advanced Features/04-Window Functions.md",
+    "Database/PostgreSQL/03-Advanced Features/02-Foreign Keys.md",
+    "Database/PostgreSQL/03-Advanced Features/03-Transactions.md",
+    "Database/PostgreSQL/03-Advanced Features/01-Views.md",
+    "Database/PostgreSQL/02-The SQL Language Basic/06-Aggregate Functions.md",
+    "Database/PostgreSQL/02-The SQL Language Basic/03-Populating a Table With Rows.md",
+    "Database/PostgreSQL/02-The SQL Language Basic/02-Creating a new table.md",
+    "Database/PostgreSQL/01-Getting Started/02-Creating a Database.md",
+    "Database/PostgreSQL/01-Getting Started/01-Architectural Fundamentals.md",
+    "Database/PostgreSQL/02-The SQL Language Basic/04-Querying a Table.md"
+  ]
+}
