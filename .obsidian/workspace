@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Project-01.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Project-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Project-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Project-01.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "d865e02fe7f6a5ed",
   "lastOpenFiles": [
-    "Docker/01-Get Started/01-Orientation and setup.md",
-    "Docker/README.md",
-    "Database/PostgreSQL/04-The SQL Language Advanced/01-SQL Syntax/01-Lexical Structure/01-Identifiers and Key Words.md",
-    "Database/PostgreSQL/04-The SQL Language Advanced/01-SQL Syntax/01-Lexical Structure/00-README.md",
-    "Database/PostgreSQL/03-Advanced Features/05-Inheritance.md",
-    "Database/PostgreSQL/03-Advanced Features/04-Window Functions.md",
-    "Database/PostgreSQL/03-Advanced Features/02-Foreign Keys.md",
-    "Database/PostgreSQL/03-Advanced Features/03-Transactions.md",
+    "README.md",
+    "Tools/Docker/README.md",
     "Database/PostgreSQL/03-Advanced Features/01-Views.md",
-    "Database/PostgreSQL/02-The SQL Language Basic/06-Aggregate Functions.md"
+    "Database/PostgreSQL/03-Advanced Features/02-Foreign Keys.md",
+    "Database/PostgreSQL/02-The SQL Language Basic/06-Aggregate Functions.md",
+    "Database/PostgreSQL/03-Advanced Features/04-Window Functions.md",
+    "Tools/Docker/01-Get Started/02-Sample application.md",
+    "Tools/Docker/01-Get Started/01-Getting Started.md",
+    "Database/PostgreSQL/04-The SQL Language Advanced/01-SQL Syntax/01-Lexical Structure/01-Identifiers and Key Words.md",
+    "Database/PostgreSQL/04-The SQL Language Advanced/01-SQL Syntax/01-Lexical Structure/00-README.md"
   ]
 }

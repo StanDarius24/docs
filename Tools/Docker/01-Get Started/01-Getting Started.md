@@ -1,8 +1,3 @@
--   Build and run an image as a container
--   Share images using Docker Hub
--   Deploy Docker applications using multiple containers with a database
--   Run applications using Docker Compose
-
 ## Start the tutorial
 
 If you’ve already run the command to get started with the tutorial, congratulations! If not, open a command prompt or bash window, and run the command:
@@ -39,3 +34,8 @@ Now that you’ve run a container, what _is_ a container? Simply put, a contai
 
 When running a container, it uses an isolated filesystem. This custom filesystem is provided by a **container image**. Since the image contains the container’s filesystem, it must contain everything needed to run an application - all dependencies, configurations, scripts, binaries, etc. The image also contains other configuration for the container, such as environment variables, a default command to run, and other metadata.
 
+!**Info**
+
+If you’re familiar with `chroot`, think of a container as an extended version of `chroot`. The filesystem is simply coming from the image. But, a container adds additional isolation not available when simply using chroot.
+
+#docker 

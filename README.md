@@ -14,7 +14,7 @@ Software Engineer Roadmap docs
 - [ ] Postgresql
 - [ ] MongoDB
 
-#Programming Language
+#Programming Languages
 - [ ] Java
 - [ ] Kotlin
 
