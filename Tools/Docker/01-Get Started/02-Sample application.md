@@ -43,3 +43,9 @@ Now that we have an image, let’s run the application. To do so, we will use th
 docker run -dp 3000:3000 getting-started
 ```
 Remember the `-d` and `-p` flags? We’re running the new container in “detached” mode (in the background) and creating a mapping between the host’s port 3000 to the container’s port 3000. Without the port mapping, we wouldn’t be able to access the application.
+
+2. After a few seconds, open your web browser to http.yourlink. You should see our app :D.
+
+
+
+#docker 
