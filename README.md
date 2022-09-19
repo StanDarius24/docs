@@ -14,7 +14,7 @@ Software Engineer Roadmap docs
 - [ ] Postgresql
 - [ ] MongoDB
 
-#Programming Languages
+#ProgrammingLanguage
 - [ ] Java
 - [ ] Kotlin
 
@@ -26,4 +26,6 @@ Software Engineer Roadmap docs
 #Tools
 - [ ] Docker
 
+#Books
+- [ ] Java Concurrency In Practice
 ---
