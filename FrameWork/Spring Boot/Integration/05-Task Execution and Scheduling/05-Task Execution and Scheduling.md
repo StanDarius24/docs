@@ -197,3 +197,5 @@ public void doSomething() {
 **!TIP: You can also use the `zone` attribute to specify the time zone in which the cron expression is resolved.
 
 Notice that the methods to be scheduled must have void returns and must not accept any arguments. If the method needs to interact with other objects from the application context, those would typically have been provided through dependency injection.
+
+#springBoot
