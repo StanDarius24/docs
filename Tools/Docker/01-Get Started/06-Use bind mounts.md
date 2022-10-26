@@ -49,4 +49,4 @@ $ docker build -t getting-started .
 ```
 Using bind mounts is _very_ common for local development setups. The advantage is that the dev machine doesn’t need to have all of the build tools and environments installed. With a single `docker run` command, the dev environment is pulled and ready to go. We’ll talk about Docker Compose in a future step, as this will help simplify our commands (we’re already getting a lot of flags).
 
-#docker 
+#docker #devops 

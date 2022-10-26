@@ -6,4 +6,4 @@ Each table is a named `collection of rows`. Each row of a given table has the `s
 
 Tables are grouped into `databases`, and a collection of databases managed by a single PostgreSQL server instance constitutes a `database cluster`.
 
-#postgresql 
+#postgresql #Database 

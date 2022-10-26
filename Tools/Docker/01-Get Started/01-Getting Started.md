@@ -38,4 +38,4 @@ When running a container, it uses an isolated filesystem. This custom filesystem
 
 If you’re familiar with `chroot`, think of a container as an extended version of `chroot`. The filesystem is simply coming from the image. But, a container adds additional isolation not available when simply using chroot.
 
-#docker 
+#docker #devops 

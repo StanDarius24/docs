@@ -16,4 +16,4 @@ Additionally, comments can occur in SQL input. They are not tokens, they are eff
 
 The `SQL syntax` is not very consistent regarding what tokens identify commands and which are operands or parameters. The first few tokens are generally the command name, so in the above example we would usually speak of a `“SELECT”`, an `“UPDATE”`, and an `“INSERT”` command. But for instance the `UPDATE` command always requires a `SET` token to appear in a certain position, and this particular variation of `INSERT` also requires a `VALUES` in order to be complete.
 
-#postgresql 
+#postgresql #Database 

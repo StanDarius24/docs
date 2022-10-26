@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "4c495c2eac5044f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "67b91277d58ea849",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d865e02fe7f6a5ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FrameWork/Spring Boot/Annotation/01-Annotations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b622bb84ed9dd08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "237631ebb45c5356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed548165bf95ddea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9798b252dc119c53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4486d7f7deeec2a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 181.5
+  },
+  "right": {
+    "id": "587658028fda4d19",
+    "type": "split",
+    "children": [
+      {
+        "id": "041781758408eb7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6135895c8098dd7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FrameWork/Spring Boot/Annotation/01-Annotations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2b1bb205fab2040",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FrameWork/Spring Boot/Annotation/01-Annotations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3bc30b214c74145",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "62c35412c0fb2f3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FrameWork/Spring Boot/Annotation/01-Annotations.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d865e02fe7f6a5ed",
+  "lastOpenFiles": [
+    "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md",
+    "FrameWork/Spring Boot/Annotation/01-Annotations.md",
+    "Rust/01-Variables and Mutability.md",
+    "Tools/Docker/01-Get Started/03-Update the application.md",
+    "Tools/Docker/01-Get Started/02-Sample application.md",
+    "Tools/Docker/01-Get Started/01-Getting Started.md",
+    "Database/PostgreSQL/Export Database from a container and import in your local machine.md",
+    "Howtos.md",
+    "DevOps/Load Balancer.md",
+    "DevOps/Reverse Proxy.md"
+  ]
+}

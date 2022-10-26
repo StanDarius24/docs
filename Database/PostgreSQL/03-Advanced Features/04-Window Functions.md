@@ -51,4 +51,4 @@ FROM empsalary;
 (10 rows)
 ```
 
-#postgresql 
+#postgresql #Database 

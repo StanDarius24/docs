@@ -88,4 +88,4 @@ Here the `ONLY` before cities indicates that the query should be run over only t
 
 `Although inheritance is frequently useful, it has not been integrated with unique constraints or foreign keys, which limits its usefulness.`
 
-#postgresql 
+#postgresql #Database 

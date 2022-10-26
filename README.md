@@ -17,6 +17,7 @@ Software Engineer Roadmap docs
 #ProgrammingLanguage
 - [ ] Java
 - [ ] Kotlin
+- [ ] Rust
 
 #Frameworks
 - [ ] Spring Boot
