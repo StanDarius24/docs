@@ -51,9 +51,42 @@ Note, that if we use constructor injection, all constructor arguments are mandat
 
 Starting with version 4.3, we don't need to annotate constructors with _@Autowired_ explicitly unless we declare at least two constructors.
 
-More about autowired below:
+---
 
-**It allows Spring to resolve and inject collaborating beans into our bean.**
+Starting with Spring 2.5, the framework introduced annotations-driven _Dependency Injection_. The main annotation of this feature is _@Autowired__._ **It allows Spring to resolve and inject collaborating beans into our bean.**
+
+#### 2.1.a Enabling _@Autowired_ Annotations
+
+The Spring framework enables automatic dependency injection. In other words, **by declaring all the bean dependencies in a Spring configuration file, Spring container can autowire relationships between collaborating beans**. This is called **_Spring bean autowiring_**.
+
+To use Java-based configuration in our application, let's enable annotation-driven injection to load our Spring configuration:
+
+```java
+@Configuration
+@ComponentScan("com.baeldung.autowire.sample")
+public class AppConfig {}
+```
+
+Alternatively, the [_<context:annotation-config>_ annotation](https://www.baeldung.com/spring-contextannotation-contextcomponentscan#:~:text=The%20%3Ccontext%3Aannotation%2Dconfig,annotation%2Dconfig%3E%20can%20resolve.) is mainly used to activate the dependency injection annotations in Spring XML files.
+
+Moreover, **Spring Boot introduces the [_@SpringBootApplication_](https://www.baeldung.com/spring-boot-annotations#spring-boot-application) annotation**. This single annotation is equivalent to using _@Configuration_, _@EnableAutoConfiguration_, and _@ComponentScan_.
+
+Let's use this annotation in the main class of the application:
+
+```java
+@SpringBootApplication
+public class App {
+    public static void main(String[] args) {
+        SpringApplication.run(App.class, args);
+    }
+}
+```
+As a result, when we run this Spring Boot application, **it will automatically scan the components in the current package and its sub-packages**. Thus it will register them in Spring's Application Context, and allow us to inject beans using _@Autowired_.
+
+#### 2.1.b Using _@Autowired_
+
+After enabling annotation injection, **we can use autowiring on properties, setters, and constructors**.
+
 
 
 
@@ -286,4 +319,71 @@ For example:
 @Component 
 @Scope("prototype") 
 class Engine {}
+```
+
+## 3. Context Configuration Annotations
+
+We can configure the application context with the annotations described in this section.
+
+### 3.1. _@Profile_
+
+If we want Spring to **use a _@Component_ class or a _@Bean_ method only when a specific profile is active**, we can mark it with _@Profile_. We can configure the name of the profile with the _value_ argument of the annotation:
+
+```java
+@Component
+@Profile("sportDay")
+class Bike implements Vehicle {}
+```
+
+You can read more about profiles in [this article](https://www.baeldung.com/spring-profiles).
+
+### 3.2. _@Import_
+
+We can use **specific _@Configuration_ classes without component scanning** with this annotation. We can provide those classes with _@Import_‘s _value_ argument:
+
+```java
+@Import(VehiclePartSupplier.class) 
+class VehicleFactoryConfig {}
+```
+
+### 3.3. _@ImportResource_
+
+We can **import XML configurations** with this annotation. We can specify the XML file locations with the _locations_ argument, or with its alias, the _value_ argument:
+
+```java
+@Configuration
+@ImportResource("classpath:/annotations.xml")
+class VehicleFactoryConfig {}
+```
+
+### 3.4. _@PropertySource_
+
+With this annotation, we can **define property files for application settings**:
+
+```java
+@Configuration
+@PropertySource("classpath:/annotations.properties")
+class VehicleFactoryConfig {}
+```
+
+_@PropertySource_ leverages the Java 8 repeating annotations feature, which means we can mark a class with it multiple times:
+
+```java
+@Configuration
+@PropertySource("classpath:/annotations.properties")
+@PropertySource("classpath:/vehicle-factory.properties")
+class VehicleFactoryConfig {}
+```
+
+### 3.5. _@PropertySources_
+
+We can use this annotation to specify multiple _@PropertySource_ configurations:
+
+```java
+@Configuration
+@PropertySources({ 
+    @PropertySource("classpath:/annotations.properties"),
+    @PropertySource("classpath:/vehicle-factory.properties")
+})
+class VehicleFactoryConfig {}
 ```

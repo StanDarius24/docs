@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "67b91277d58ea849",
+        "id": "62f8607db074329c",
         "type": "tabs",
         "children": [
           {
-            "id": "d865e02fe7f6a5ed",
+            "id": "dd3557348b03f4a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrameWork/Spring Boot/JPA/01 Java Persistence API.md",
+                "file": "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "0ea3dbe5ce69bd11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FrameWork/Spring Boot/JPA/src/StudentService.java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89e42031bb95f3fc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrameWork/Spring Boot/JPA/src/StudentService.java.md",
+                "file": "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrameWork/Spring Boot/JPA/src/StudentService.java.md",
+                "file": "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrameWork/Spring Boot/JPA/src/StudentService.java.md"
+                "file": "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md"
               }
             }
           }
@@ -157,20 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "0ea3dbe5ce69bd11",
+  "active": "dd3557348b03f4a8",
   "lastOpenFiles": [
+    "FrameWork/Spring Boot/Annotation/01-Annotations.md",
+    "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md",
+    "FrameWork/Spring Boot/JPA/01 Java Persistence API.md",
     "FrameWork/Spring Boot/JPA/src/StudentRepository.java.md",
     "FrameWork/Spring Boot/JPA/src/StudentDto.java.md",
     "FrameWork/Spring Boot/JPA/src/Student.java.md",
     "FrameWork/Spring Boot/JPA/src/pom.xml.md",
     "FrameWork/Spring Boot/JPA/src/persistence.xml.md",
     "FrameWork/Spring Boot/JPA/src/application.yaml.md",
-    "FrameWork/Spring Boot/JPA/01 Java Persistence API.md",
-    "FrameWork/Spring Boot/Annotation/01-Annotations.md",
-    "FrameWork/Spring Boot/JPA/src.md",
-    "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md"
+    "FrameWork/Spring Boot/JPA/src.md"
   ]
 }
