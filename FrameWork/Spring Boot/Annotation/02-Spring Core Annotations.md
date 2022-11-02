@@ -6,8 +6,17 @@ We can leverage the capabilities of Spring DI engine using the annotations in th
 
 We often call these “Spring core annotations” and we'll review them in this tutorial.
 
+<<<<<<< HEAD
+---
+
 ## 2. DI-Related Annotations
 
+---
+
+=======
+## 2. DI-Related Annotations
+
+>>>>>>> origin/master
 ### 2.1. _@Autowired_
 
 We can use the _@Autowired_ to **mark a dependency which Spring is going to resolve and inject**. We can use this annotation with a constructor, setter, or field injection.
@@ -51,6 +60,14 @@ Note, that if we use constructor injection, all constructor arguments are mandat
 
 Starting with version 4.3, we don't need to annotate constructors with _@Autowired_ explicitly unless we declare at least two constructors.
 
+<<<<<<< HEAD
+More about autowired below:
+
+**It allows Spring to resolve and inject collaborating beans into our bean.**
+
+---
+
+=======
 ---
 
 Starting with Spring 2.5, the framework introduced annotations-driven _Dependency Injection_. The main annotation of this feature is _@Autowired__._ **It allows Spring to resolve and inject collaborating beans into our bean.**
@@ -90,6 +107,7 @@ After enabling annotation injection, **we can use autowiring on properties, set
 
 
 
+>>>>>>> origin/master
 ### 2.2. _@Bean_
 
 _@Bean_ marks a factory method which instantiates a Spring bean:
@@ -113,6 +131,11 @@ Engine getEngine() {
 ```
 Note, that all methods annotated with _@Bean_ must be in _@Configuration_ classes.
 
+<<<<<<< HEAD
+---
+
+=======
+>>>>>>> origin/master
 ### 2.3. _@Qualifier_
 
 We use _@Qualifier_ along with _@Autowired_ to **provide the bean id or bean name** we want to use in ambiguous situations.
@@ -158,6 +181,12 @@ Vehicle vehicle;
 ```
 
 For a more detailed description, please read [this article](https://www.baeldung.com/spring-autowire).
+<<<<<<< HEAD
+
+---
+
+=======
+>>>>>>> origin/master
 ### 2.4. _@Required_
 
 _@Required_ on setter methods to mark dependencies that we want to populate through XML:
@@ -175,6 +204,11 @@ void setColor(String color) {
 </bean>
 ```
 
+<<<<<<< HEAD
+---
+
+=======
+>>>>>>> origin/master
 ### 2.5. _@Value_
 
 We can use _@Value_ for injecting property values into beans. It's compatible with constructor, setter, and field injection.
@@ -224,6 +258,11 @@ String fuelType;
 ```
 We can use _@Value_ even with SpEL. More advanced examples can be found in our [article about _@Value_](https://www.baeldung.com/spring-value-annotation).
 
+<<<<<<< HEAD
+---
+
+=======
+>>>>>>> origin/master
 ### 2.6. _@DependsOn_
 
 We can use this annotation to make Spring **initialize other beans before the annotated one**. Usually, this behavior is automatic, based on the explicit dependencies between beans.
@@ -245,6 +284,11 @@ Engine engine() {
 }
 ```
 
+<<<<<<< HEAD
+---
+
+=======
+>>>>>>> origin/master
 ### 2.7. _@Lazy_
 
 We use _@Lazy_ when we want to initialize our bean lazily. By default, Spring creates all singleton beans eagerly at the startup/bootstrapping of the application context.
@@ -274,11 +318,22 @@ class VehicleFactoryConfig {
 }
 ```
 For further reading, please visit [this article](https://www.baeldung.com/spring-lazy-annotation).
+<<<<<<< HEAD
+
+---
+
+=======
+>>>>>>> origin/master
 ### 2.8. _@Lookup_
 
 A method annotated with _@Lookup_ tells Spring to return an instance of the method’s return type when we invoke it.
 Detailed information about the annotation [can be found in this article](https://www.baeldung.com/spring-lookup).
 
+<<<<<<< HEAD
+---
+
+=======
+>>>>>>> origin/master
 ### 2.9. _@Primary_
 
 Sometimes we need to define multiple beans of the same type. In these cases, the injection will be unsuccessful because Spring has no clue which bean we need.
@@ -310,6 +365,11 @@ class Biker {
 ```
 In the previous example _Car_ is the primary vehicle. Therefore, in the _Driver_ class, Spring injects a _Car_ bean. Of course, in the _Biker_ bean, the value of the field _vehicle_ will be a _Bike_ object because it's qualified.
 
+<<<<<<< HEAD
+---
+
+=======
+>>>>>>> origin/master
 ### 2.10. _@Scope_
 
 We use _@Scope_ to define the [scope](https://www.baeldung.com/spring-bean-scopes) of a _@Component_ class or a _@Bean_ definition_._ It can be either _singleton, prototype, request, session, globalSession_ or some custom scope.
@@ -321,12 +381,23 @@ For example:
 class Engine {}
 ```
 
+<<<<<<< HEAD
+---
+
+=======
+>>>>>>> origin/master
 ## 3. Context Configuration Annotations
 
 We can configure the application context with the annotations described in this section.
 
+<<<<<<< HEAD
+---
+
+### 3.1. _@Profile_
+=======
 ### 3.1. _@Profile_
 
+>>>>>>> origin/master
 If we want Spring to **use a _@Component_ class or a _@Bean_ method only when a specific profile is active**, we can mark it with _@Profile_. We can configure the name of the profile with the _value_ argument of the annotation:
 
 ```java
@@ -337,6 +408,21 @@ class Bike implements Vehicle {}
 
 You can read more about profiles in [this article](https://www.baeldung.com/spring-profiles).
 
+<<<<<<< HEAD
+---
+
+
+### 3.2. _@Import_
+We can use **specific _@Configuration_ classes without component scanning** with this annotation. We can provide those classes with _@Import_‘s _value_ argument:
+```java
+@Import(VehiclePartSupplier.class)
+class VehicleFactoryConfig {}
+```
+
+---
+
+### 3.3. _@ImportResource_
+=======
 ### 3.2. _@Import_
 
 We can use **specific _@Configuration_ classes without component scanning** with this annotation. We can provide those classes with _@Import_‘s _value_ argument:
@@ -348,6 +434,7 @@ class VehicleFactoryConfig {}
 
 ### 3.3. _@ImportResource_
 
+>>>>>>> origin/master
 We can **import XML configurations** with this annotation. We can specify the XML file locations with the _locations_ argument, or with its alias, the _value_ argument:
 
 ```java
@@ -356,8 +443,14 @@ We can **import XML configurations** with this annotation. We can specify the 
 class VehicleFactoryConfig {}
 ```
 
+<<<<<<< HEAD
+---
+
+### 3.4. _@PropertySource_
+=======
 ### 3.4. _@PropertySource_
 
+>>>>>>> origin/master
 With this annotation, we can **define property files for application settings**:
 
 ```java
@@ -375,8 +468,14 @@ _@PropertySource_ leverages the Java 8 repeating annotations feature, which mea
 class VehicleFactoryConfig {}
 ```
 
+<<<<<<< HEAD
+---
+
+### 3.5. _@PropertySources_
+=======
 ### 3.5. _@PropertySources_
 
+>>>>>>> origin/master
 We can use this annotation to specify multiple _@PropertySource_ configurations:
 
 ```java
@@ -387,3 +486,7 @@ We can use this annotation to specify multiple _@PropertySource_ configuration
 })
 class VehicleFactoryConfig {}
 ```
+<<<<<<< HEAD
+
+=======
+>>>>>>> origin/master
