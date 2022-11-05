@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 #java #springBoot 
 
-=======
->>>>>>> origin/master
 Bean is a key concept of the Spring Framework. So understanding this notion is crucial to get the hang of the framework and use it in an effective way.Unfortunately, **there aren't clear answers to the simple question of what a Spring bean really is.** Some explanations go to such a low level that the big picture is missed, whereas others are too vague.
 
 ## **2. Bean Definition**
@@ -11,7 +8,6 @@ _In Spring, the objects that form the backbone of your application and that are 
 
 This definition is concise and gets to the point **but fails to elaborate on an important element: the Spring IoC container.** Let's take a closer look to see what it is and the benefits it brings in.
 
-<<<<<<< HEAD
 ## **3. Inversion of Control**
 
 Simply put, [I](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)[nversion of Control](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring) (IoC) is **a process in which an object defines its dependencies without creating them.** This object delegates the job of constructing such dependencies to an IoC container.
@@ -110,5 +106,3 @@ assertEquals(1000, company.getAddress().getNumber());
 ```
 
 The result proves that the IoC container has created and initialized beans correctly.
-=======
->>>>>>> origin/master

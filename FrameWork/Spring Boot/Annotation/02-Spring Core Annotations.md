@@ -44,7 +44,7 @@ As a result, when we run this Spring Boot application, **it will automatically 
 
 After enabling annotation injection, **we can use autowiring on properties, setters, and constructors**.
 
-#### 2.1.c @Autowired_ on Properti**
+#### 2.1.c @Autowired on Property
 Let’s see how we can annotate a property using _@Autowired_. This eliminates the need for getters and setters.
 
 First, let's define a _fooFormatter_ bean:
@@ -73,6 +73,7 @@ As a result, Spring injects _fooFormatter_ when _FooService_ is created.
 Now let's try adding _@Autowired_ annotation on a setter method.
 
 In the following example, the setter method is called with the instance of _FooFormatter_ when _FooService_ is created:
+
 ```java
 public class FooService {
     private FooFormatter fooFormatter;
@@ -238,8 +239,23 @@ private Formatter fooFormatter;
 
 There are several ways to configure beans in a Spring container. Firstly, we can declare them using XML configuration. We can also declare beans using the _@Bean_ annotation in a configuration class.
 
-Finally, we can mark the class with one of the annotations from the _org.springframework.stereotype_ package, and leave the rest to component scanning.
+_@Bean_ marks a factory method which instantiates a Spring bean:
+```java
+@Bean
+Engine engine() {
+    return new Engine();
+}
+```
+**Spring calls these methods** when a new instance of the return type is required.
 
+The resulting bean has the same name as the factory method. If we want to name it differently, we can do so with the _name_ or the _value_ arguments of this annotation (the argument _value_ is an alias for the argument _name_):
+```java
+@Bean("engine")
+Engine getEngine() {
+    return new Engine();
+}
+```
+Note, that all methods annotated with _@Bean_ must be in _@Configuration_ classes.
 
 ---
 
