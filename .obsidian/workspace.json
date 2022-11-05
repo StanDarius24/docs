@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a83fbc6dccc7a07e",
+        "id": "62f8607db074329c",
         "type": "tabs",
         "children": [
           {
-            "id": "6cf518981d495fe0",
+            "id": "dd3557348b03f4a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-04.md",
+                "file": "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-04.md",
+                "file": "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-04.md",
+                "file": "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,35 +125,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-04.md"
+                "file": "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md"
               }
             }
-          },
-          {
-            "id": "371145695bef15b3",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6cf518981d495fe0",
+  "active": "dd3557348b03f4a8",
   "lastOpenFiles": [
-    "Adapt.md",
-    "2022-11-02.md",
+    "FrameWork/Spring Boot/Annotation/01-Annotations.md",
     "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md",
     "FrameWork/Spring Boot/Annotation/03-Spring Web Annotations.md",
     "Concurrency/Chapter 1 - Introduction.md",
     "FrameWork/Spring Boot/JPA/01 Java Persistence API.md",
     "FrameWork/Spring Boot/JPA/src/StudentRepository.java.md",
     "FrameWork/Spring Boot/JPA/src/StudentDto.java.md",
+    "FrameWork/Spring Boot/JPA/src/Student.java.md",
     "FrameWork/Spring Boot/JPA/src/pom.xml.md",
     "FrameWork/Spring Boot/JPA/src/persistence.xml.md"
   ]
