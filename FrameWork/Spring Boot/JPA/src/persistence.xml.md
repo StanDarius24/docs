@@ -1,3 +1,5 @@
+
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <persistence version="2.2"
              xmlns="http://xmlns.jcp.org/xml/ns/persistence"
@@ -17,3 +19,4 @@
         </properties>
     </persistence-unit>
 </persistence>
+```
