@@ -149,12 +149,12 @@
     "Adapt.md",
     "2022-11-02.md",
     "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md",
-    "FrameWork/Spring Boot/Annotation/01-Annotations.md",
-    "FrameWork/Spring Boot/JPA/src/StudentService.java.md",
+    "FrameWork/Spring Boot/Annotation/03-Spring Web Annotations.md",
+    "Concurrency/Chapter 1 - Introduction.md",
+    "FrameWork/Spring Boot/JPA/01 Java Persistence API.md",
     "FrameWork/Spring Boot/JPA/src/StudentRepository.java.md",
     "FrameWork/Spring Boot/JPA/src/StudentDto.java.md",
     "FrameWork/Spring Boot/JPA/src/pom.xml.md",
-    "FrameWork/Spring Boot/JPA/src/persistence.xml.md",
-    "FrameWork/Spring Boot/JPA/src/application.yaml.md"
+    "FrameWork/Spring Boot/JPA/src/persistence.xml.md"
   ]
 }
