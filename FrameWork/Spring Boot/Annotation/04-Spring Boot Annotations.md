@@ -497,4 +497,3 @@ Properties additionalProperties() {
 ```
 
 ---
-
