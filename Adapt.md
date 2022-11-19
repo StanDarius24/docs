@@ -4,7 +4,7 @@
 
 Each time a process is performed, it clones so as not to change its initial definition.
 
-A startNode and  a ConditionalNode have conditions.A condition is an expression that must be evaluated and returns a true or false value.If the evaluation is true, we switch to node's children to evaluate them.If the condition is false, the evalation on the respective bransh stops.When an evaluation leads to an error, let's sau we refer to a person who has a name and an age, and we in our evaluation want to extract the city where he lives but it s not set, the process will fail.
+A startNode and  a ConditionalNode have conditions.A condition is an expression that must be evaluated and returns a true or false value.If the evaluation is true, we switch to node's children to evaluate them.If the condition is false, the evalation on the respective bransh stops.When an evaluation leads to an error, let's refer to a person who has a name and an age, and we in our evaluation want to extract the city where he lives but it s not set, the process will fail.
 
 There are several types of actions to which the process reacts.When an object defined by us changes or we create one.
 
