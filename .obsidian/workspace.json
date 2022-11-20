@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Lifecycle/README.md",
+                "file": "DevOps/Lifecycle/Tomcat/Tomcat installation on EC2 instance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Lifecycle/README.md",
+                "file": "DevOps/Lifecycle/Tomcat/Tomcat installation on EC2 instance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Lifecycle/README.md",
+                "file": "DevOps/Lifecycle/Tomcat/Tomcat installation on EC2 instance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Lifecycle/README.md"
+                "file": "DevOps/Lifecycle/Tomcat/Tomcat installation on EC2 instance.md"
               }
             }
           }
@@ -138,6 +138,8 @@
   },
   "active": "33aa2892259c6ad9",
   "lastOpenFiles": [
+    "DevOps/Lifecycle/Untitled.md",
+    "DevOps/Lifecycle/README.md",
     "DevOps/Arhitecture/VSwitch.md",
     "DevOps/Arhitecture/Reverse Proxy.md",
     "DevOps/Reverse Proxy.md",
@@ -145,8 +147,6 @@
     "DevOps/Arhitecture/Load Balancing.md",
     "FrameWork/Spring Boot/Annotation/06-Spring Data Annotations.md",
     "FrameWork/Spring Boot/JPA/02-JPA with Spring.md",
-    "FrameWork/Spring Boot/JPA/01-Java Persistence API.md",
-    "FrameWork/Spring Boot/Annotation/01-Annotations.md",
-    "FrameWork/Spring Boot/Annotation/05-Spring Scheduling Annotations.md"
+    "FrameWork/Spring Boot/JPA/01-Java Persistence API.md"
   ]
 }
