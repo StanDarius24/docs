@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "123e2aea8a5c781e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Configuration/Iptables.md",
+                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Configuration/Iptables.md",
+                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Configuration/Iptables.md",
+                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Configuration/Iptables.md"
+                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "123e2aea8a5c781e",
+  "active": "76b2a78af7e44c46",
   "lastOpenFiles": [
-    "2022-11-28.md",
-    "Database/PostgreSQL/Export Database from a container and import in your local machine.md",
     "DevOps/Configuration/Jenkins.md",
+    "DevOps/Configuration/Iptables.md",
+    "Boaty Mcboatface startup.md",
+    "Database/PostgreSQL/Export Database from a container and import in your local machine.md",
     "DevOps/Configuration/How to Remove Raid in Linux.md",
     "DevOps/Configuration/Jenkins configuration for mobile projects.md",
     "DevOps/Lifecycle/Tomcat/Tomcat installation on EC2 instance.md",
     "DevOps/Lifecycle/Untitled.md",
     "DevOps/Lifecycle/README.md",
-    "DevOps/Arhitecture/VSwitch.md",
-    "DevOps/Arhitecture/Reverse Proxy.md"
+    "DevOps/Arhitecture/VSwitch.md"
   ]
 }
