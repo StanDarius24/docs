@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "67f73e2e23cc550e",
+        "id": "ee5f9efdbf3d9a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "33aa2892259c6ad9",
+            "id": "76b2a78af7e44c46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concurrency/Chapter 1 - Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62a73194b1ecc9fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/01-Variables and Mutability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55e53bed03430d3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/02-Data Types.md",
+                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/02-Data Types.md",
+                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/02-Data Types.md",
+                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/02-Data Types.md"
+                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md"
               }
             }
           }
@@ -161,14 +136,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "55e53bed03430d3e",
+  "active": "76b2a78af7e44c46",
   "lastOpenFiles": [
-    "Rust/01-Variables and Mutability.md",
-    "Rust/02-Data Types.md",
-    "Tools/Docker/01-Get Started/08-Use Docker Compose.md",
-    "Linux/Systemd is evil.md",
-    "DevOps/Hardware/RAID 5 vs Raid 10.md",
-    "Concurrency/Chapter 1 - Introduction.md",
+    "DevOps/Configuration/Jenkins.md",
+    "DevOps/Configuration/Iptables.md",
+    "Boaty Mcboatface startup.md",
+    "Database/PostgreSQL/Export Database from a container and import in your local machine.md",
+    "DevOps/Configuration/How to Remove Raid in Linux.md",
+    "DevOps/Configuration/Jenkins configuration for mobile projects.md",
     "DevOps/Lifecycle/Tomcat/Tomcat installation on EC2 instance.md",
     "DevOps/Lifecycle/Untitled.md",
     "DevOps/Lifecycle/README.md",
