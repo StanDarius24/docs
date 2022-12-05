@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Hardware/RAID 5 vs Raid 10.md",
+                "file": "Rust/01-Variables and Mutability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55e53bed03430d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/02-Data Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Hardware/RAID 5 vs Raid 10.md",
+                "file": "Rust/02-Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Hardware/RAID 5 vs Raid 10.md",
+                "file": "Rust/02-Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Hardware/RAID 5 vs Raid 10.md"
+                "file": "Rust/02-Data Types.md"
               }
             }
           }
@@ -149,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "62a73194b1ecc9fe",
+  "active": "55e53bed03430d3e",
   "lastOpenFiles": [
+    "Rust/01-Variables and Mutability.md",
+    "Rust/02-Data Types.md",
+    "Tools/Docker/01-Get Started/08-Use Docker Compose.md",
+    "Linux/Systemd is evil.md",
+    "DevOps/Hardware/RAID 5 vs Raid 10.md",
     "Concurrency/Chapter 1 - Introduction.md",
     "DevOps/Lifecycle/Tomcat/Tomcat installation on EC2 instance.md",
     "DevOps/Lifecycle/Untitled.md",
     "DevOps/Lifecycle/README.md",
-    "DevOps/Arhitecture/VSwitch.md",
-    "DevOps/Arhitecture/Reverse Proxy.md",
-    "DevOps/Reverse Proxy.md",
-    "DevOps/Load Balancer.md",
-    "DevOps/Arhitecture/Load Balancing.md",
-    "FrameWork/Spring Boot/Annotation/06-Spring Data Annotations.md"
+    "DevOps/Arhitecture/VSwitch.md"
   ]
 }
