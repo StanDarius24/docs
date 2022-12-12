@@ -1,4 +1,4 @@
-#linux
+#linux #systemd 
 
 -   its huge. Its code base size is 10% of the linux kernel size. Its PID 1! That's a lot of unfound bugs that will bring the whole system down...
     

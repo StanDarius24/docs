@@ -109,4 +109,26 @@ ssh username@server_IP
 ```
 If everything works, you can close out and resume work normally.
 
+From my `.ssh/config`:
+
+```
+Host myshortname realname.example.com
+    HostName realname.example.com
+    IdentityFile ~/.ssh/realname_rsa # private key for realname
+    User remoteusername
+
+Host myother realname2.example.org
+    HostName realname2.example.org
+    IdentityFile ~/.ssh/realname2_rsa  # different private key for realname2
+    User remoteusername
+```
+
+Then you can use the following to connect:
+
+`ssh myshortname`
+
+`ssh myother`
+
+And so on.
+
 #devops 

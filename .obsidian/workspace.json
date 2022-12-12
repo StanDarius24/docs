@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ee5f9efdbf3d9a0a",
+        "id": "84d4a8d9707d9cd7",
         "type": "tabs",
         "children": [
           {
-            "id": "76b2a78af7e44c46",
+            "id": "beffa3b93dce0323",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md",
+                "file": "DevOps/Linux/Systemd is evil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb681140f070cbfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Linux/Systemd is evil.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 424.5
   },
   "right": {
     "id": "587658028fda4d19",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md",
+                "file": "DevOps/Linux/Systemd is evil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md",
+                "file": "DevOps/Linux/Systemd is evil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md"
+                "file": "DevOps/Linux/Systemd is evil.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "76b2a78af7e44c46",
+  "active": "fb681140f070cbfd",
   "lastOpenFiles": [
+    "DevOps/Linux/Backup using Sysdemd.md",
+    "DevOps/Linux/Systemd is evil.md",
     "DevOps/Configuration/Jenkins.md",
     "DevOps/Configuration/Iptables.md",
-    "Boaty Mcboatface startup.md",
+    "DevOps/Configuration/Generate SSH Keys.md",
     "Database/PostgreSQL/Export Database from a container and import in your local machine.md",
-    "DevOps/Configuration/How to Remove Raid in Linux.md",
-    "DevOps/Configuration/Jenkins configuration for mobile projects.md",
-    "DevOps/Lifecycle/Tomcat/Tomcat installation on EC2 instance.md",
-    "DevOps/Lifecycle/Untitled.md",
-    "DevOps/Lifecycle/README.md",
-    "DevOps/Arhitecture/VSwitch.md"
+    "Adapt.md",
+    "Boaty Mcboatface startup.md",
+    "images/Screenshot 2022-11-28 at 20.41.00.png",
+    "images/Screenshot 2022-11-22 at 15.50.21.png"
   ]
 }

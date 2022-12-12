@@ -36,15 +36,15 @@ Incoming packets are analyzed at each chain and are tested against a set of rule
 default settings.
 
 ```bash
-/usr/sbin/iptables -P INPUT ACCEPT 
-/usr/sbin/iptables -P FORWARD ACCEPT 
-/usr/sbin/iptables -P OUTPUT ACCEPT 
+iptables -P INPUT ACCEPT 
+iptables -P FORWARD ACCEPT 
+iptables -P OUTPUT ACCEPT 
 
-/usr/sbin/iptables -t nat -F 
-/usr/sbin/iptables -t mangle -F 
-/usr/sbin/iptables -F 
+iptables -t nat -F 
+iptables -t mangle -F 
+iptables -F 
 
-/usr/sbin/iptables -X 
+iptables -X
 ```
 
 block all ip's except yours (ssh)
@@ -106,3 +106,66 @@ iptables -A INPUT -j DROP
 ```
  
 using this type of configuration, we will block all ports, all requests that the server receive, but we leave them available for the ips defined above
+
+
+**`iptables -A INPUT -m set ! --match-set allowed_ips src -j DROP`**
+
+```
+ iptables -P INPUT DROP
+# iptables -P FORWARD DROP
+# iptables -P INPUT DROP
+# iptables -A INPUT -m conntrack --ctstate ESTABLISHED,RELATED --jump ACCEPT
+# iptables -A FORWARD -m conntrack --ctstate ESTABLISHED,RELATED --jump ACCEPT
+# iptables -A OUTPUT -m conntrack --ctstate ESTABLISHED,RELATED --jump ACCEPT
+# iptables -A INPUT -m conntrack --ctstate INVALID --jump DROP
+# iptables -A FORWARD -m conntrack --ctstate INVALID --jump DROP
+# iptables -A OUTPUT  -m conntrack --ctstate INVALID --jump DROP
+
+# iptables -A INPUT --in-interface lo --jump ACCEPT
+# iptables -A OUTPUT --in-interface lo --jump ACCEPT
+# iptables -A INPUT -p tcp -m tcp --source  X.X.X.X/32 --dport 443 -j ACCEPT
+# iptables -A INPUT-p tcp -m tcp --source  X.X.X.X/32 --dport 22 -j ACCEPT
+# debugging rules to help you set up.
+# iptables -A INPUT -j LOG
+# iptables -A FORWARD -j LOG 
+# iptables -A OUTPUT -j LOG  
+```
+
+iptables -A INPUT -m set --match-set allowed_ips src -p tcp -j ACCEPT
+iptables -A OUTPUT -m set --match-set allowed_ips src -p tcp -j ACCEPT
+
+
+iptables -A INPUT -m set --match-set allowed_ips src -j ACCEPT
+
+iptables -A INPUT -p tcp  -m set ! --match-set allowed_ips src --dport 443 -j DROP
+iptables -A INPUT -p tcp  -m set ! --match-set allowed_ips src --dport 80 -j DROP
+iptables -A INPUT -m set --match-set allowed_ips src -j ACCEPT
+
+
+
+```bash
+iptables -A INPUT -s 86.126.80.224 -j ACCEPT
+#iptables -A INPUT -s 79.114.44.2 -j ACCEPT
+iptables -A INPUT -s 87.234.212.138 -j ACCEPT
+iptables -A INPUT -s 87.193.192.130 -j ACCEPT
+iptables -A INPUT -s 31.18.255.149 -j ACCEPT
+iptables -A INPUT -s 84.232.150.11 -j ACCEPT
+
+iptables -A INPUT -s 41.227.28.90 -j ACCEPT
+iptables -A INPUT -s 41.227.28.91 -j ACCEPT
+iptables -A INPUT -s 41.227.28.92 -j ACCEPT
+iptables -A INPUT -s 41.227.28.93 -j ACCEPT
+iptables -A INPUT -s 41.225.7.154 -j ACCEPT
+iptables -A INPUT -s 41.225.7.156 -j ACCEPT
+iptables -A INPUT -s 41.225.7.155 -j ACCEPT
+iptables -A INPUT -s 41.225.7.157 -j ACCEPT
+
+iptables -A INPUT -j DROP
+```
+
+
+```
+iptables -A INPUT -m set --match-set allowed_ips src -j ACCEPT
+iptables -A INPUT -m set --match-set allowed_ips src -p tcp --dport 15765 -j ACCEPT
+iptables -A INPUT                                -p tcp --dport 15765 -j DROP
+```
