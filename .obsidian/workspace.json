@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e81809028c2f28bc",
+        "id": "adf8d8055ae4e432",
         "type": "tabs",
         "children": [
           {
-            "id": "2ade3b15d83cd7cd",
+            "id": "495898ea13ff2768",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Configuration/Jenkins configuration for mobile projects.md",
+                "file": "Rust/Common Programming Concepts/01-Variables and Mutability.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "559bcab6cff43b88",
+            "id": "b8b4cd33cf90624f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Sonatype Nexus.md",
+                "file": "Rust/Common Programming Concepts/03-Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69ddb4cc1ca5c8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Common Programming Concepts/04-Control Flow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Sonatype Nexus.md",
+                "file": "Rust/Common Programming Concepts/04-Control Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Sonatype Nexus.md",
+                "file": "Rust/Common Programming Concepts/04-Control Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Sonatype Nexus.md"
+                "file": "Rust/Common Programming Concepts/04-Control Flow.md"
               }
             }
           }
@@ -149,17 +161,28 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "559bcab6cff43b88",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "69ddb4cc1ca5c8c3",
   "lastOpenFiles": [
+    "Rust/Common Programming Concepts/03-Functions.md",
+    "Rust/Common Programming Concepts/01-Variables and Mutability.md",
+    "Rust/Common Programming Concepts/02-Data Types.md",
+    "images/Screenshot 2022-11-28 at 20.41.00.png",
+    "images/Screenshot 2022-11-22 at 15.50.21.png",
+    "Rust/Common Programming Concepts.md",
     "DevOps/Configuration/Jenkins configuration for mobile projects.md",
+    "DevOps/Sonatype Nexus.md",
     "DevOps/Configuration/Jenkins.md",
-    "DevOps/Linux/Systemd is evil.md",
-    "DevOps/Linux/Backup using Sysdemd.md",
-    "DevOps/Configuration/Iptables.md",
-    "DevOps/Configuration/Generate SSH Keys.md",
-    "Database/PostgreSQL/Export Database from a container and import in your local machine.md",
-    "Adapt.md",
-    "Boaty Mcboatface startup.md",
-    "images/Screenshot 2022-11-28 at 20.41.00.png"
+    "DevOps/Linux/Systemd is evil.md"
   ]
 }
