@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e77df39dad151b0f",
+            "id": "f9599021259c6bef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Software Quality/Bertrand Meyer Object-oriented software construction/Chapter 1.md",
+                "file": "Tools/JVM/The runtime data areas.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Software Quality/Bertrand Meyer Object-oriented software construction/Chapter 1.md",
+                "file": "Tools/JVM/The runtime data areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Software Quality/Bertrand Meyer Object-oriented software construction/Chapter 1.md",
+                "file": "Tools/JVM/The runtime data areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Software Quality/Bertrand Meyer Object-oriented software construction/Chapter 1.md"
+                "file": "Tools/JVM/The runtime data areas.md"
               }
             }
           }
@@ -160,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e77df39dad151b0f",
+  "active": "f9599021259c6bef",
   "lastOpenFiles": [
     "Books/Concurrency/Java Concurrency in Practice/Chapter 1 - Introduction.md",
+    "Books/Software Quality/Bertrand Meyer Object-oriented software construction/Chapter 1.md",
     "Database/Microsoft Azure Core Data Concepts/Notes First week 1.md",
     "Database/README.md",
     "FrameWork/Spring Boot/Security/Features/Authentication.md",
@@ -170,7 +171,6 @@
     "FrameWork/Spring Boot/Security/Servlet/Servlet.md",
     "FrameWork/Spring Boot/Security/Spring Security.md",
     "Rust/01 Common Programming Concepts/01-Variables and Mutability.md",
-    "Adapt.md",
-    "README.md"
+    "Adapt.md"
   ]
 }
