@@ -47,4 +47,4 @@ To get out of psql, type:
 ```
 
 
-#postgresql #Database 
+#postgresql #Database #relationalParadigm

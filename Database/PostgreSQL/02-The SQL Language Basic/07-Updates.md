@@ -18,4 +18,4 @@ SELECT * FROM weather;
  (3 rows)
 ```
 
-#postgresql #Database 
+#postgresql #Database #relationalParadigm

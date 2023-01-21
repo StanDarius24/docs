@@ -1,3 +1,5 @@
+#docker #postgresql #relationalParadigm
+
 ```bash
 $ pg_dump -U db_user -W -F p db_name > /path_of_the_dump/dump_file.sql
 ```

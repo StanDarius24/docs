@@ -62,4 +62,4 @@ COMMIT;
 
 This example is, of course, oversimplified, but there's a lot of control possible in a transaction block through the use of savepoints. Moreover, `ROLLBACK TO` is the only way to regain control of a transaction block that was put in aborted state by the system due to an error, short of rolling it back completely and starting again.
 
-#postgresql #Database 
+#postgresql #Database #relationalParadigm

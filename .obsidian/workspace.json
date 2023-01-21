@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "67f73e2e23cc550e",
+        "id": "eb9468b864f31e7f",
         "type": "tabs",
         "children": [
           {
-            "id": "3c582c11226a1268",
+            "id": "fad584c14682e511",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Concurrency/Java Concurrency in Practice/Chapter 1 - Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9599021259c6bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/JVM/The runtime data areas.md",
+                "file": "Database/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dogumentParadigm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/JVM/The runtime data areas.md",
+                "file": "Database/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/JVM/The runtime data areas.md",
+                "file": "Database/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/JVM/The runtime data areas.md"
+                "file": "Database/README.md"
               }
             }
+          },
+          {
+            "id": "450672297fe6d69b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9599021259c6bef",
+  "active": "fad584c14682e511",
   "lastOpenFiles": [
-    "Books/Concurrency/Java Concurrency in Practice/Chapter 1 - Introduction.md",
-    "Books/Software Quality/Bertrand Meyer Object-oriented software construction/Chapter 1.md",
-    "Database/Microsoft Azure Core Data Concepts/Notes First week 1.md",
+    "2.md",
+    "images/Pasted image 20230121170822.png",
     "Database/README.md",
-    "FrameWork/Spring Boot/Security/Features/Authentication.md",
-    "FrameWork/Spring Boot/Security/Reactive/Reactive Applications.md",
-    "FrameWork/Spring Boot/Security/Servlet/Servlet.md",
-    "FrameWork/Spring Boot/Security/Spring Security.md",
-    "Rust/01 Common Programming Concepts/01-Variables and Mutability.md",
-    "Adapt.md"
+    "Database/MongoDB/02-Switch Database.md",
+    "Database/MongoDB/01-Introduction.md",
+    "README.md",
+    "Database/PostgreSQL/04-The SQL Language Advanced/01-SQL Syntax/01-Lexical Structure/01-Identifiers and Key Words.md",
+    "Database/PostgreSQL/04-The SQL Language Advanced/01-SQL Syntax/01-Lexical Structure/00-README.md",
+    "Database/PostgreSQL/03-Advanced Features/05-Inheritance.md",
+    "Database/PostgreSQL/03-Advanced Features/04-Window Functions.md"
   ]
 }

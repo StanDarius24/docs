@@ -96,4 +96,4 @@ SELECT DISTINCT city
 ```
 
 
-#postgresql #Database 
+#postgresql #Database #relationalParadigm

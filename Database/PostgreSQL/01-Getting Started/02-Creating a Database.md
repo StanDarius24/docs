@@ -23,4 +23,4 @@ $ dropdb mydb
 
 More about `createdb` and `dropdb` can be found in `createdb` and `dropdb` respectively.
 
-#postgresql #Database 
+#postgresql #Database #relationalParadigm

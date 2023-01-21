@@ -29,4 +29,4 @@ COPY weather FROM '/home/user/weather.txt';
 
 where the file name for the source file must be available on the machine running the backend process, not the client, since the backend process reads the file directly. You can read more about the `COPY` command in `COPY`.
 
-#postgresql #Database 
+#postgresql #Database #relationalParadigm

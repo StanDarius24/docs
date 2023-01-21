@@ -26,4 +26,4 @@ DELETE FROM tablename;
 
 Without a qualification, `DELETE` will remove `all rows` from the given table, leaving it `empty`. The system will not request confirmation before doing this!
 
-#postgresql #Database 
+#postgresql #Database #relationalParadigm

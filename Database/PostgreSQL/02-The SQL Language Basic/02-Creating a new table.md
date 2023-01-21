@@ -35,4 +35,4 @@ Finally, it should be mentioned that if you don't need a table any longer or wan
 DROP TABLE tablename;
 ```
 
-#postgresql #Database 
+#postgresql #Database #relationalParadigm
