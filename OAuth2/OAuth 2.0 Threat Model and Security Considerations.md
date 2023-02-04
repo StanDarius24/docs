@@ -1,0 +1,3 @@
+#security 
+
+The [Threat Model and Security Considerations](http://tools.ietf.org/html/rfc6819) document was written to provide additional guidance beyond what is described in the core document. Much of this document was added after major providers had real implementation experience. The document describes many known attacks, either theoretical attacks or ones that have been demonstrated in the wild. It describes countermeasures for each.

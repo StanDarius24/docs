@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c23c11b4e68be6a9",
+            "id": "49cea1aff582719c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrameWork/Spring Boot/Security/OAuth2/OAuth Grant Types/08 - Password Grant.md",
+                "file": "OAuth2/OAuth 2.0 Client Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrameWork/Spring Boot/Security/OAuth2/OAuth Grant Types/08 - Password Grant.md",
+                "file": "OAuth2/OAuth 2.0 Client Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrameWork/Spring Boot/Security/OAuth2/OAuth Grant Types/08 - Password Grant.md",
+                "file": "OAuth2/OAuth 2.0 Client Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrameWork/Spring Boot/Security/OAuth2/OAuth Grant Types/08 - Password Grant.md"
+                "file": "OAuth2/OAuth 2.0 Client Authentication.md"
               }
             }
           },
@@ -157,17 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c23c11b4e68be6a9",
+  "active": "49cea1aff582719c",
   "lastOpenFiles": [
-    "FrameWork/Spring Boot/Security/OAuth2/OAuth Grant Types/07 - Implicit Grant.md",
-    "FrameWork/Spring Boot/Security/OAuth2/OAuth Grant Types/08 - Password Grant.md",
-    "FrameWork/Spring Boot/Security/OAuth2/OAuth Grant Types/06 - Refresh Token.md",
-    "FrameWork/Spring Boot/Security/OAuth2/OAuth Grant Types/05 - Device Authorization Grant.md",
-    "FrameWork/Spring Boot/Security/OAuth2/OAuth Grant Types/04 - Client Credentials Grant.md",
-    "FrameWork/Spring Boot/Security/OAuth2/OAuth Grant Types/03 - Proof Key for Code Exchange.md",
-    "FrameWork/Spring Boot/Security/OAuth2/OAuth Grant Types/02 - Authorization Code Grant.md",
-    "FrameWork/Spring Boot/Security/OAuth2/OAuth Grant Types/01 - Grant Types.md",
-    "FrameWork/Spring Boot/Security/OAuth2/OAuth 2.0.md",
-    "FrameWork/Spring Boot/Security/OAuth2/OAuth 2.0 Framework/03 - Refresh Tokens.md"
+    "OAuth2/OAuth 2.0 Client Types.md",
+    "OAuth2/README.md",
+    "FrameWork/Spring Boot/Security/README.md",
+    "OAuth2/ID Tokens vs Access Tokens.md",
+    "OAuth2/OAuth 2.0 Security Best Current Practice.md",
+    "OAuth2/OAuth 2.0 Bearer Token Usage.md",
+    "OAuth2/OAuth 2.0 Threat Model and Security Considerations.md",
+    "OAuth2/OAuth 2.0 Client Authentication.md",
+    "README.md",
+    "Books/Software Quality/Bertrand Meyer Object-oriented software construction/Chapter 1.md"
   ]
 }

@@ -7,6 +7,10 @@ OAuth 2.0 is the industry-standard protocol for authorization. OAuth 2.0 focuses
 ---
 
 Tables of content:
+
+---
+
+a)
 1. OAuth 2.0 Framework: 
  - [[01 - Authorization Framework]]
  - [[02 - Access Tokens]] 
@@ -19,3 +23,14 @@ Tables of content:
  - [[04 - Client Credentials Grant]]
  - [[05 - Device Authorization Grant]]
  - [[06 - Refresh Token]]
+3. [[OAuth 2.0 Client Types]]
+4. [[OAuth 2.0 Client Authentication]]
+5. [[OAuth 2.0 Bearer Token Usage]]
+6. [[OAuth 2.0 Threat Model and Security Considerations]]
+7. [[OAuth 2.0 Security Best Current Practice]]
+8. [[ID Tokens vs Access Tokens]]
+
+---
+
+b)
+

@@ -29,4 +29,5 @@ Software Engineer Roadmap docs
 
 #Books
 - [ ] Java Concurrency In Practice
+- [ ] Bertrand Meyer Object-oriented software construction
 ---
