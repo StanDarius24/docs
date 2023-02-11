@@ -4,23 +4,131 @@
     "type": "split",
     "children": [
       {
-        "id": "79d891f0536bca25",
+        "id": "9dd74ddd9df82fa7",
         "type": "tabs",
         "children": [
           {
-            "id": "49cea1aff582719c",
+            "id": "3267dbfd06c6f4ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OAuth2/OAuth 2.0 Client Authentication.md",
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Orthogonality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e6082e27301a9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Robustness Principle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f45967e20c79bf6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/inversion of Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d652129d9b2d531d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Maximise Cohesion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1a54b0e8d9f5fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Hide Implementation Details.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce8b3d0bdf9918bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Curly's Law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a48904d63aeec71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Encapsulate What Changes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "975cd15acf834b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Command Query Separation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54f7d6314cde62c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/FIRST principles of testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0efec8bd12e8d666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Arrange, Act, Assert.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -86,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Arrange, Act, Assert.md",
                 "file": "OAuth2/OAuth 2.0 Client Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -103,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Arrange, Act, Assert.md",
                 "file": "OAuth2/OAuth 2.0 Client Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -126,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OAuth2/OAuth 2.0 Client Authentication.md"
+                "file": "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Arrange, Act, Assert.md"
               }
             }
           },
@@ -139,11 +249,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,8 +267,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49cea1aff582719c",
+  "active": "0efec8bd12e8d666",
   "lastOpenFiles": [
+    "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/FIRST principles of testing.md",
+    "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Command Query Separation.md",
+    "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Encapsulate What Changes.md",
+    "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Curly's Law.md",
+    "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Hide Implementation Details.md",
+    "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Maximise Cohesion.md",
+    "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/inversion of Control.md",
+    "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Robustness Principle.md",
+    "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Orthogonality.md",
+    "Books/Software Quality/Principles/Relationships between modules, classes, components, entities/Composition Over Inheritance.md"
     "OAuth2/OAuth 2.0 Client Types.md",
     "OAuth2/README.md",
     "FrameWork/Spring Boot/Security/README.md",
