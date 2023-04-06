@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3d1dbc35e49756d3",
+        "id": "e4d10a2b293798a4",
         "type": "tabs",
         "children": [
           {
@@ -149,6 +149,48 @@
   },
   "active": "8a106d0e6ab54e7b",
   "lastOpenFiles": [
+    "images/Screenshot 2023-02-05 at 17.03.48.png",
+    "Pasted image 20230319132055.png",
+    "GITHUB ACTIONS.md",
+    "FrameWork/Spring Boot/JPA/Hibernate Statistics.md",
+    "Create Authorization Token.md",
+    "2023-03-16.md",
+    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 2.md",
+    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 3.md",
+    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 1.md",
+    "Books/Software Quality/Principles/Generic/DTWTTCPW.md",
+    "Books/Software Quality/Principles/Generic/CFTM.md",
+    "Books/Software Quality/Principles/Generic/BSR.md",
+    "Books/Software Quality/Principles/Generic/APO.md",
+    "Database/SQL/02-SELECT.md",
+    "Database/SQL/01-Intro.md",
+    "Database/README.md",
+    "Database/Microsoft Azure Core Data Concepts/Notes First week 1.md",
+    "2023-03-19.md",
+    "Database/SQL",
+    "2023-01-16.md",
+    "Pasted image 20230319235556.png",
+    "Pasted image 20230319235631.png",
+    "Pasted image 20230319230015.png",
+    "Pasted image 20230319132055.png.md",
+    "Pasted image 20230305215328.png.md",
+    "README.md",
+    "FrameWork/Spring Boot/Integration/05-Task Execution and Scheduling/05-Task Execution and Scheduling.md",
+    "Tools/Docker/01-Get Started/05-Persist the DB.md",
+    "Tools/Docker/01-Get Started/02-Sample application.md",
+    "FrameWork/Spring Boot/Integration/27-Task Execution and Scheduling.md",
+    "Tools/Docker/01-Get Started/07-Multi container apps.md"
+                "file": "FrameWork/Spring Boot/JPA/Hibernate Statistics.md"
+          },
+          {
+            "id": "450672297fe6d69b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+  "active": "8a106d0e6ab54e7b",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 2.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 3.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 1.md",

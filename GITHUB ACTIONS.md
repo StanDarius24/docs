@@ -72,7 +72,7 @@ jobs:
   install-and-build:  
     runs-on: ubuntu-latest  
     steps:  
-      - uses: actions/checkout@v1 
+      - uses: actions/checkout@v1
       - name: npm install and npm run CI commands  
         run: |  
           npm i  
