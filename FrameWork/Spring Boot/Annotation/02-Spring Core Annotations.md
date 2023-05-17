@@ -392,7 +392,8 @@ class Car implements Vehicle {}
 
 Alternatively, if we define a bean with the _@Bean_ annotation, the factory method should be annotated with _@DependsOn_:
 ```java
-@Bean @DependsOn("fuel") 
+@Bean 
+@DependsOn("fuel") 
 Engine engine() { 
 	return new Engine(); 
 }

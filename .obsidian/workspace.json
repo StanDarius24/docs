@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4dc3c51e6975238f",
+        "id": "6a19769818bbaf34",
         "type": "tabs",
         "children": [
           {
-            "id": "d865e02fe7f6a5ed",
+            "id": "15faf0283f970e7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc1bc487187c6cc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 4.md",
+                "file": "Tools/JVM/Stack vs Heap Memory Allocation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6a3ad8ff187875b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 4.md",
+                "file": "Tools/JVM/Stack vs Heap Memory Allocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 4.md",
+                "file": "Tools/JVM/Stack vs Heap Memory Allocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 4.md"
+                "file": "Tools/JVM/Stack vs Heap Memory Allocation.md"
               }
             }
           },
@@ -169,20 +164,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc1bc487187c6cc1",
+  "active": "15faf0283f970e7f",
   "lastOpenFiles": [
-    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 3.md",
+    "Tools/JVM/Java Memory Management.md",
+    "Tools/JVM/Stack vs Heap Memory Allocation.md",
+    "images/Pasted image 20230305215328.png.md",
+    "images/Pasted image 20230517142150.png",
+    "Tools/JVM/The runtime data areas.md",
+    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 5.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 4.md",
+    "2023-03-16.md",
+    "2023-01-16.md",
+    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 3.md",
+    "FrameWork/Spring Boot/Concepts/05-Spring Inversion of Control and Dependency Injection.md",
+    "FrameWork/Spring Boot/Concepts/04-Spring ApplicationContext Container.md",
+    "FrameWork/Spring Boot/Concepts/03-Spring BeanFactory Container.md",
+    "FrameWork/Spring Boot/Concepts/02-IoC Containers.md",
+    "FrameWork/Spring Boot/Concepts/01-Beans.md",
+    "FrameWork/Spring Boot/Annotation/01-Annotations.md",
+    "FrameWork/Spring Boot/Annotation/06-Spring Data Annotations.md",
+    "FrameWork/Spring Boot/Annotation/05-Spring Scheduling Annotations.md",
+    "FrameWork/Spring Boot/Annotation/04-Spring Boot Annotations.md",
+    "FrameWork/Spring Boot/Annotation/03-Spring Web Annotations.md",
+    "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md",
     "Untitled.canvas",
     "README.md",
     "FrameWork/Spring Boot/Integration/05-Task Execution and Scheduling/05-Task Execution and Scheduling.md",
     "Tools/Docker/01-Get Started/05-Persist the DB.md",
     "Tools/Docker/01-Get Started/02-Sample application.md",
     "FrameWork/Spring Boot/Integration/27-Task Execution and Scheduling.md",
-    "Tools/Docker/01-Get Started/07-Multi container apps.md",
-    "Tools/Docker/01-Get Started/06-Use bind mounts.md",
-    "Concurrency/Chapter 1 - Introduction.md",
-    "Tools/Docker/01-Get Started/01-Getting Started.md",
-    "Tools/Docker/README.md"
+    "Tools/Docker/01-Get Started/07-Multi container apps.md"
   ]
 }
