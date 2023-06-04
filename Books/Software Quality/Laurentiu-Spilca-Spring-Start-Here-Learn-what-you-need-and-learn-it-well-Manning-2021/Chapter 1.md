@@ -1,9 +1,9 @@
-This chapter covers: 
+---
 * What a framework is; 
 * When to use and when to avoid using frameworks; 
 * What the Spring framework is; 
 * Using Spring in real-world scenarios. 
-
+---
 --- 
 1. Spring Core — One of the fundamental parts of Spring that includes foundational capabilities. One of these features is the Spring context. As you’ll learn in detail in chapter 2, the Spring context is a fundamental capability of the Spring framework that enables Spring to manage instances of your app. Also, as part of Spring Core, you find the Spring aspects functionality. Aspects help Spring intercept and manipulate methods you define in your app. We discuss more details of the aspects in chapter 6. The Spring Expression Language (SpEL) is another capability you’ll find as part of Spring Core, which enables you to describe configurations for Spring using a specific language. All of these are new notions, and I don’t expect you to know them yet. But soon you’ll understand that Spring Core holds the mechanisms Spring uses to integrate into your app. 
 2. Spring model-view-controller (MVC)—The part of the Spring framework that enables you to develop web applications that serve HTTP requests. We’ll use Spring MVC starting in chapter 7. 
