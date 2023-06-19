@@ -139,3 +139,58 @@ AMI = Amazon Machine Image
 	- Your own AMI: you make and maintain them yourself
 	- An AWS Marketplace AMI: an AMI someone else made
 
+EC2 Image Builder:
+- Used to automate the creation of Virtual Machines or container images;
+- => Automate the creation, maintain, validate and test EC2 AMIs;
+- Can be run on a schedule;
+- Free service
+
+EC2 Instance Store
+- EBS volumes are network drives with good but limited performance;
+- If you need a high-performance hardware disk, use EC2 Instance Store;
+- Better I/O performance;
+- EC2 Instance Store lose their storage if they're stopped;
+- Good for buffer/cache/scratch data/temporary content
+- Risk of data loss if hardware fails;
+- Backups and Replication are your responsibility;
+
+EFS = Elastic File System
+- Managed NFS (network file system) that can be mounted on 100s of EC2;
+- EFS works with Linux EC2 instances in multi-AZ
+- Highly available, scalable, expensive, pay per use, no capacity planning
+
+EFS Infrequent Access (EFS-IA)
+- Storage class that is cost-optimized for files not accessed every day;
+- Up to 92% lower cost compared to EFS Standard;
+- EFS will automatically move your files to EFS-IA based on the last time they were accessed;
+- Enable EFS-IA with a LIfecycle Policy;
+- Transparent to the applications accessing EFS.
+
+Amazon FSx
+- Launch 3rd party high-performance file systems on AWS;
+- Fully managed service;
+- For windows
+	- A fully managed, highly reliable, and scalable Windows native shared file system;
+	- Build on Windows File Server
+	- Supports SMB protocol & Windows NTFS
+	- Integrated with Microsoft Active Directory
+- For Lustre
+	- A fully managed, high-performance, scalable file storage for High Performance Computing (HPC)
+	- The name Lustre is derived from "Linux" and "Cluster"
+	- Machine Learning, Analytics, VIdeo Processing, etc.
+	- Scales up to 100s GB/s, millions of IOPS, sub-ms latencies
+
+### Summary:
+- EBS VOLUMES:
+	- network drives attached to one EC2 instance at a time
+	- mapped to an Availability zones
+	- can use EBS snapshots for backups/transferring EBS volume across AZ
+- AMI: Create redy-to-use EC2 instances with our customizations
+- EC2 Image Builder: automatically build, test and distribute AMIs
+- EC2 Instance Store:
+	- High performance hardware disk attached to our EC2 instance
+	- Lost if our instance is stopped/terminated
+- EFS: network file system, can be attached to 100s of instances in a region;
+- EFS-IA: cost-optimized storage class for infrequent accessed files;
+- FSx for Windows: Network File System for Windows servers;
+- FSx for Lustre High Performance Computing Linux file system.

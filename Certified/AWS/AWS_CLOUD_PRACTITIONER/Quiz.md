@@ -226,3 +226,97 @@ b)
 	c) Use AWS only through the Command Line Interface (CLI)
 
 a) 
+
+---
+
+Set 3:
+
+1. Which EC2 Storage would you use to create a shared network file system for your EC2 Instances?
+	a) EBS Volume
+	b) EC2 Instance Store
+	c) EBS Snapshots
+	d) EFS
+
+d)
+
+---
+
+2. Which service can be used to automate image management processes?
+	a) AMI
+	b) EC2 Image Builder
+	c) EBS Snapshots
+	d) IAM
+
+b)
+
+---
+
+3. Which of the following is a fully managed native Microsoft Windows file system?
+	a) EFS
+	b) FSx
+	c) EBS
+
+b)
+
+---
+
+4. What are AMIs NOT used for?
+	a) Add your own software license
+	b) Add your own configuration
+	c). Add your own operating-system
+	d) add your own IP addresses
+
+d)
+
+---
+
+5. EBS Volumes CANNOT be attached to multiple EC2 instances at a time.
+	a) True
+	b) False
+
+a)
+
+---
+
+6. An EBS Volume is a network drive you can attach to your instances while they run, so your instances' data persist even after their termination.
+	a) True
+	b) False
+
+a)
+
+---
+
+7. Which statement is CORRECT regarding EC2 Instance Store?
+	a) It is not good to use as a disk to cache content
+	b) It has a better I/O performance, but the data is lost if the EC2 instance is terminated;
+	c) Your data is always sage with EC2 Instance Store
+
+b) 
+
+---
+
+8. Which statement is CORRECT regarding EC2 Instance Store?
+	a) The operating-system on an EC2 Instance;
+	b) A backup of your EBS Volume at a point in time;
+	c) The amount of CPU and RAM of an EC2 Instance
+
+b)
+
+---
+
+9. Where can you find a third party's AMI so you can use it to launch your EC2 Instance?
+	a) Public AMIs
+	b) My own AMIs
+	c) AWS Marketplace AMIs
+
+c)
+
+---
+
+10. What is an EBS Volume tied to?
+	a) A region
+	b) A data center
+	c) An edge location
+	d) An availability zone
+
+d)
