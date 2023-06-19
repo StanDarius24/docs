@@ -13,7 +13,7 @@
 2. Software as a Service (SaaS)
 	- Completed product that is run and managed by the service provider
 
-![[Pasted image 20230606230622.png]]
+![[Screenshot 2023-06-19 at 14.22.20.png]]
 
 Infrastructure as a Service:
  - Amazon EC2 (on AWS)
@@ -39,7 +39,7 @@ Software as a Service:
 
 ## Shared Responsibility Model diagram
 
-![[Pasted image 20230607200408.png]]
+![[Screenshot 2023-06-19 at 14.23.01.png]]
 
 ## IAM (Identity and Access Management, Global service)
 - Root account created by default, shouldn't be used or shared
@@ -112,3 +112,30 @@ EC2 User Data:
 - EC2 user data is used to automate boot tasks such as:
 	- Installing updates; software; downloading common files;
 - The EC2 User Data Script runs with the root user.
+
+EC2 Volumes:
+- An EBS (Elastic Block Store) Volume is a network drive you can attach to your instances while they run;
+- It allows your instances to persist data, even after their termination;
+- They can only be mounted to one instance at a time (at the CPP level);
+- They are bound to a specific availability zone;
+- Analogy: Think of them as a "network USB stick";
+- Free tier: 30GB of free EBS storage of General Purpose (SSD) or Magnetic per month.
+
+EBS Volume:
+- It's a network drive
+	- It uses the network to communicate the instance, which means there might be a bit of latency
+	- It can be detached from an EC2 instance and attached to another one quickly
+- It's locked to an Availability Zone (AZ)
+	- To move a volume across, you first need to snapshot it
+- Have a provisioned capacity (size in GBs, and IOPS)
+
+AMI = Amazon Machine Image
+- AMI are a customization of an EC2 instance
+	- You add your own software, configuration, operating system, ect.
+	- Faster boot/config time bcs all your software is prepackaged
+- AMI are built for a specific region
+- You can launch EC2 instances from:
+	- A Public AMI: AWS provided
+	- Your own AMI: you make and maintain them yourself
+	- An AWS Marketplace AMI: an AMI someone else made
+
