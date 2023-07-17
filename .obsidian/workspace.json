@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/JVM/Stack vs Heap Memory Allocation.md",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/JVM/Stack vs Heap Memory Allocation.md",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/JVM/Stack vs Heap Memory Allocation.md",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/JVM/Stack vs Heap Memory Allocation.md"
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md"
               }
             }
           },
@@ -164,35 +164,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15faf0283f970e7f",
+  "active": "ed548165bf95ddea",
   "lastOpenFiles": [
-    "Tools/JVM/Java Memory Management.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
+    "Screenshot 2023-07-17 at 22.07.45.png",
+    "2023-06-20.md",
+    "2023-03-16.md",
+    "2023-01-16.md",
+    "images/Screenshot 2023-07-16 at 19.01.52.png",
+    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_2/Chapter 1.md",
+    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 6.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/5. ELB & ASG Elastic Load Balancing & Auto Scaling Groups.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/4. EC2 Instance Storage.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Day 1.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/2. IAM Identity and Access Management.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/1. Introduction.md",
+    "images/Screenshot 2023-06-20 at 22.52.32.png",
+    "images/Screenshot 2023-06-19 at 14.22.20.png",
+    "images/Screenshot 2023-06-19 at 14.23.01.png",
+    "images/Pasted image 20230606230622.png.md",
+    "Screenshot 2023-06-19 at 14.23.01.png",
+    "Screenshot 2023-06-19 at 14.22.20.png",
+    "Pasted image 20230606230622.png.md",
+    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 5.md",
+    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 1.md",
     "Tools/JVM/Stack vs Heap Memory Allocation.md",
+    "Tools/JVM/Java Memory Management.md",
     "images/Pasted image 20230305215328.png.md",
     "images/Pasted image 20230517142150.png",
     "Tools/JVM/The runtime data areas.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 5.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 4.md",
-    "2023-03-16.md",
-    "2023-01-16.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 3.md",
     "FrameWork/Spring Boot/Concepts/05-Spring Inversion of Control and Dependency Injection.md",
-    "FrameWork/Spring Boot/Concepts/04-Spring ApplicationContext Container.md",
-    "FrameWork/Spring Boot/Concepts/03-Spring BeanFactory Container.md",
-    "FrameWork/Spring Boot/Concepts/02-IoC Containers.md",
-    "FrameWork/Spring Boot/Concepts/01-Beans.md",
-    "FrameWork/Spring Boot/Annotation/01-Annotations.md",
-    "FrameWork/Spring Boot/Annotation/06-Spring Data Annotations.md",
-    "FrameWork/Spring Boot/Annotation/05-Spring Scheduling Annotations.md",
-    "FrameWork/Spring Boot/Annotation/04-Spring Boot Annotations.md",
-    "FrameWork/Spring Boot/Annotation/03-Spring Web Annotations.md",
-    "FrameWork/Spring Boot/Annotation/02-Spring Core Annotations.md",
-    "Untitled.canvas",
-    "README.md",
-    "FrameWork/Spring Boot/Integration/05-Task Execution and Scheduling/05-Task Execution and Scheduling.md",
-    "Tools/Docker/01-Get Started/05-Persist the DB.md",
-    "Tools/Docker/01-Get Started/02-Sample application.md",
-    "FrameWork/Spring Boot/Integration/27-Task Execution and Scheduling.md",
-    "Tools/Docker/01-Get Started/07-Multi container apps.md"
+    "Untitled.canvas"
   ]
 }

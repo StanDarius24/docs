@@ -320,3 +320,99 @@ c)
 	d) An availability zone
 
 d)
+
+---
+
+- Set 4
+
+1. What is the main purpose of High Availability in the Cloud?
+	a) Increase scalability
+	b) Application thriving even in case of a disaster
+	c) Access on computers and smartphones
+	d) Handle greater loads by launching EC2 instances based on the demand
+
+b)
+
+---
+
+2. Which of the following is NOT an Auto Scaling Strategy?
+	a) Manual Scaling
+	b) Dynamic Scaling
+	c) Active Scaling
+	d) Predictive Scaling
+
+c)
+
+---
+
+3. Changing an EC2 Instance Type from a t3a.medium to a t3a.2xlarge is an example of?
+	a) Horizontal scaling
+	b) High Availability
+	c) Agility
+	d) Vertical scaling
+
+d)
+
+---
+
+4. Which AWS service offers easy horizontal scaling of compute capacity?
+	a) EBS
+	b) AMI
+	c) IAM
+	d) ASG
+
+d)
+
+---
+
+5. Which Load Balancer is best suited for HTTP/HTTPS load balancing traffic?
+	a) Network Load Balancer
+	b) Classic Load Balancer
+	c) Elastic Load Balancer
+	d) Application Load Balancer
+
+d)
+
+---
+
+6. Which of the following statements is NOT a feature of Load Balancers?
+	a) Do regular health checks to your instances
+	b) Spread load across multiple downstream instances
+	c) Handle failures of downstream instances
+	d) Back-end autoscaling
+
+d)
+
+---
+
+7. Which AWS offered Load Balancer should you use to handle hundreds of thousands of connections with low latency?
+	a) Application Load Balancer
+	b) Network Load Balancer
+	c) Elastic Load Balancer
+
+b)
+
+---
+
+8. What can you use to handle quickly and automatically the changing load on your websites and applications by adding compute resources?
+	a) An Elastic Load Balancer
+	b) A bigger instance type
+	c) An Auto Scaling Group
+	d) Health Checks on your EC2 Instances
+
+c)
+
+---
+
+9. Which of the following statements is INCORRECT regarding Auto Scaling Groups?
+	a) Replace unhealthy instances
+	b) Are cost-effective by running at optimal capacity
+	c) Automatically register new instances to a load balancer
+	d) Automatically changing the EC2 Instances Types
+
+d)
+
+---
+
+- Set 5
+- 
