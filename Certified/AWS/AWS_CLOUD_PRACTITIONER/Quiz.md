@@ -415,4 +415,101 @@ d)
 ---
 
 - Set 5
-- 
+
+1. Which S3 Storage Class is the most cost-effective for archiving data with no retrieval time requirement?
+	a) Amazon Glacier
+	b) Amazon Glacier Deep Archive
+	c) Amazon S3 Standard-Infrequent Access
+	d) Amazon S3 Intelligent Tiering
+
+b)
+
+---
+
+2. What hybrid AWS service is used to allow on-premises servers to seamlessly use the AWS Cloud at the storage layer?
+	a) Elastic Block Store
+	b) Snowball
+	c) S3
+	d) Storage Gateway
+
+d)
+
+---
+
+3. Which of the following services is a petabyte-scale data moving service (as a fleet) in or out of AWS with computing capabilities?
+	a) Snowcone
+	b) Snowball Edge
+	c) Snowmobile
+
+b)
+
+---
+
+4. Which of the following is an exabytes-scale data moving service in or out of AWS?
+	a) Snowcone
+	b) Snowball Edge
+	c) Snowmobile
+
+c) 
+
+---
+
+5. What are Objects NOT composed of?
+	a) key
+	b) value
+	c) access keys
+	d) metadata
+
+c)
+
+---
+
+6. Where are objects stored in Amazon S3?
+	a) folders
+	b) buckets
+	c) files
+	d) bin
+
+b)
+
+---
+
+7. A research team deployed in a location with low-internet connection would like to move 5 TBs of data to the Cloud. Which service can it use?
+	a) storage gateway
+	b) snowball edge
+	c) snowcone
+	d) opshub
+
+c) 
+
+---
+
+8. What can you use to define actions to move S3 objects between different storage classes?
+	a) Scaling Policy
+	b) Bucket Policies
+	c) Lifecycle Rules
+	d) Replication
+
+c)
+
+---
+
+9. A non-profit organization needs to regularly transfer petabytes of data to the cloud and to have access to local computing capacity. Which service can help with this task?
+	a) Snowball Edge - Storage Optimized
+	b) Snowball Edge - Compute Optimized
+	c) Snowcone
+	d) Snowmobile
+
+a)
+
+---
+
+10. Which S3 Storage Class is suitable for less frequently accessed data, but with rapid access when needed, while keeping a high durability and allowing an Availability Zone failure?
+	a) Amazon S3 Standard - General Purpose
+	b) Amazon Glacier
+	c) Amazon S3 One Zone-Infrequent Access
+	d) Amazon S3 Standard-Infrequent Access
+
+d)
+
+---

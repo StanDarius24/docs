@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6a19769818bbaf34",
+        "id": "88a0b5c00bc89185",
         "type": "tabs",
         "children": [
           {
-            "id": "15faf0283f970e7f",
+            "id": "03cdd94b5fa7e35e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,12 +158,22 @@
   },
   "active": "ed548165bf95ddea",
   "lastOpenFiles": [
+    "images/Screenshot 2023-07-30 at 22.40.01.png",
+    "images/Screenshot 2023-07-30 at 22.46.52.png",
+    "images/Screenshot 2023-07-30 at 23.41.03.png",
+    "images/Screenshot 2023-07-17 at 22.07.45.png",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/7. Database.md",
+    "images/Screenshot 2023-07-30 at 22.35.29.png",
+    "2023-01-16.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "2023-03-16.md",
+    "2023-06-20.md",
+    "images/Screenshot 2023-07-23 at 23.48.37.png",
+    "images/Screenshot 2023-07-23 at 23.46.38.png",
+    "images/Screenshot 2023-07-23 at 23.46.28.png",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
-    "Screenshot 2023-07-17 at 22.07.45.png",
-    "2023-06-20.md",
-    "2023-03-16.md",
-    "2023-01-16.md",
     "images/Screenshot 2023-07-16 at 19.01.52.png",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_2/Chapter 1.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 6.md",
@@ -182,23 +184,15 @@
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/2. IAM Identity and Access Management.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/1. Introduction.md",
     "images/Screenshot 2023-06-20 at 22.52.32.png",
-    "images/Screenshot 2023-06-19 at 14.22.20.png",
-    "images/Screenshot 2023-06-19 at 14.23.01.png",
     "images/Pasted image 20230606230622.png.md",
-    "Screenshot 2023-06-19 at 14.23.01.png",
-    "Screenshot 2023-06-19 at 14.22.20.png",
     "Pasted image 20230606230622.png.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 5.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 1.md",
     "Tools/JVM/Stack vs Heap Memory Allocation.md",
     "Tools/JVM/Java Memory Management.md",
     "images/Pasted image 20230305215328.png.md",
-    "images/Pasted image 20230517142150.png",
     "Tools/JVM/The runtime data areas.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 5.md",
-    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 4.md",
-    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 3.md",
-    "FrameWork/Spring Boot/Concepts/05-Spring Inversion of Control and Dependency Injection.md",
     "Untitled.canvas"
   ]
 }
