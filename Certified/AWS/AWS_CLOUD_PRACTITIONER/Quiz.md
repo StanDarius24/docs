@@ -513,3 +513,114 @@ a)
 d)
 
 ---
+
+- Set 6
+
+1. How do you get charged in AWS Lambda?
+	a) Per programming language
+	b) Per number of functions
+	c) per call and per duration
+	d) per inactive time
+
+c)
+
+---
+
+2. You would like to launch Docker containers in AWS without worrying about provisioning or managing any infrastructure. The Docker containers will be used to host a heavy workloads to serve different types of requests. Some requests may need up to 30 minutes to be completed. Which AWS service should you use to run Docker containers in a Serverless way and satisfy the requirements?
+	a) ECS
+	b) Fargate
+	c) ECR
+	d) Lambda
+
+b)
+
+---
+
+3. A complete cloud beginner would like to create a simple application with predictable pricing. What service should this person use?
+	a) EC2
+	b) Lambda
+	c) Lightsail
+	d) EasyStart
+
+c)
+
+---
+
+4. What is the name of the software development platform that allows you to run applications the same way, regardless of where they are run?
+	a) Dolphin
+	b) Shark
+	c) Docker
+	d) ECS
+
+c)
+
+---
+
+5. How would you best describe "event-driven" in AWS Lambda?
+	a) Happens on a certain day
+	b) Happens at a certain time
+	c) Happens on a regular basis
+	d) Happens when needed
+
+d)
+
+---
+
+6. Which AWS service allows you to launch Docker containers on AWS, but requires you to provision and maintain the infrastructure?
+	a) ECR
+	b) EC2
+	c) ECS
+	d) Fargate
+
+c)
+
+---
+
+7. Which of the following statements is INCORRECT regarding the definition of the term "serverless"?
+	a) Serverless allows you to deploy functions as a service
+	b) There are no servers
+	c) You dont need to manage servers
+	d) Lambda is the serverless pioneer
+
+b)
+
+---
+
+8. Which of the following statements is NOT a feature of AWS Lambda?
+	a) Integration with the whole AWS suite of services
+	b) Virtual functions
+	c) Automated and continuous scaling
+	d) Definition of a minimum and a maximum of EC2 Instances running
+
+d)
+
+---
+
+9. A company needs to run thousands of jobs but would like to NOT manage the compute resources. What service can it use?
+	a) ECS
+	b) EC2 Spot Instances
+	c) EC2 Instances
+	d) Batch
+
+d)
+
+---
+
+10. Where should you store your private Docker images so they can be run by ECS or Fargate?
+	a) Elastic Docker Registry
+	b) Elastic Docker File Registry
+	c) Elastic Container Registry
+	d) Elastic Private Container Registry
+
+c) 
+
+---
+
+11. Which AWS serverless service can be used by developers to create APIs?
+	a) ECR
+	b) Lambda
+	c) API Gateway
+
+c)
+
+---

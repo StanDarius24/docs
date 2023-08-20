@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03cdd94b5fa7e35e",
+            "id": "a34e0e70c5c2b648",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-06-20.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-06-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-06-20.md"
+              }
             }
           },
           {
@@ -156,43 +164,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed548165bf95ddea",
+  "active": "a34e0e70c5c2b648",
   "lastOpenFiles": [
+    "2023-03-16.md",
+    "GITHUB ACTIONS.md",
+    "2023-01-16.md",
+    "Adapt.md",
+    "Boaty Mcboatface startup.md",
+    "Create Authorization Token.md",
+    "JWT docs.md",
+    "images/screenshot-ibm-learning.udemy.com-2023.08.20-19_37_12.png",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "images/screenshot-ibm-learning.udemy.com-2023.08.19-16_17_47.png",
+    "images/Screenshot 2023-08-19 at 15.48.55.png",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/8. Other Compute Services.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/9. Deploying and Managing Infrastructure at Scale Section.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
+    "images/screenshot-ibm-learning.udemy.com-2023.08.19-16_05_25.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.08.19-16_03_28.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.08.19-15_51_48.png",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/7. Database.md",
+    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_2/Chapter 1.md",
+    "Automotive.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/5. ELB & ASG Elastic Load Balancing & Auto Scaling Groups.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/1. Introduction.md",
+    "README.md",
+    "2023-06-20.md",
+    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 1.md",
     "images/Screenshot 2023-07-30 at 22.40.01.png",
     "images/Screenshot 2023-07-30 at 22.46.52.png",
     "images/Screenshot 2023-07-30 at 23.41.03.png",
     "images/Screenshot 2023-07-17 at 22.07.45.png",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/7. Database.md",
-    "images/Screenshot 2023-07-30 at 22.35.29.png",
-    "2023-01-16.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "2023-03-16.md",
-    "2023-06-20.md",
-    "images/Screenshot 2023-07-23 at 23.48.37.png",
-    "images/Screenshot 2023-07-23 at 23.46.38.png",
-    "images/Screenshot 2023-07-23 at 23.46.28.png",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
-    "images/Screenshot 2023-07-16 at 19.01.52.png",
-    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_2/Chapter 1.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 6.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/5. ELB & ASG Elastic Load Balancing & Auto Scaling Groups.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/4. EC2 Instance Storage.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Day 1.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/2. IAM Identity and Access Management.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/1. Introduction.md",
-    "images/Screenshot 2023-06-20 at 22.52.32.png",
-    "images/Pasted image 20230606230622.png.md",
-    "Pasted image 20230606230622.png.md",
-    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 5.md",
-    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 1.md",
-    "Tools/JVM/Stack vs Heap Memory Allocation.md",
-    "Tools/JVM/Java Memory Management.md",
-    "images/Pasted image 20230305215328.png.md",
-    "Tools/JVM/The runtime data areas.md",
-    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Chapter 5.md",
-    "Untitled.canvas"
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Day 1.md"
   ]
 }
