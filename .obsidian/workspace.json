@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "88a0b5c00bc89185",
+        "id": "0294adfaa163c18f",
         "type": "tabs",
         "children": [
           {
-            "id": "a34e0e70c5c2b648",
+            "id": "9da3af21e055ea70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-20.md",
+                "file": "DevOps/Terraform/04-Variables and Outputs.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 340.5
   },
   "right": {
     "id": "587658028fda4d19",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-20.md",
+                "file": "DevOps/Terraform/04-Variables and Outputs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-20.md",
+                "file": "DevOps/Terraform/04-Variables and Outputs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-20.md"
+                "file": "DevOps/Terraform/04-Variables and Outputs.md"
               }
             }
           },
@@ -164,8 +164,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a34e0e70c5c2b648",
+  "active": "9da3af21e055ea70",
   "lastOpenFiles": [
+    "DevOps/Terraform/03-Terraform Overview + Setup.md",
+    "DevOps/Terraform/04-Variables and Outputs.md",
+    "DevOps/Terraform/02-Evolution of Cloud + Infrastructure as Code.md",
+    "DevOps/Terraform/01-Introduction.md",
+    "Automotive.md",
+    "DevOps/Terraform",
+    "README.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/8. Other Compute Services.md",
+    "2023-06-20.md",
     "2023-03-16.md",
     "GITHUB ACTIONS.md",
     "2023-01-16.md",
@@ -179,7 +188,6 @@
     "Untitled.canvas",
     "images/screenshot-ibm-learning.udemy.com-2023.08.19-16_17_47.png",
     "images/Screenshot 2023-08-19 at 15.48.55.png",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/8. Other Compute Services.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/9. Deploying and Managing Infrastructure at Scale Section.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
     "images/screenshot-ibm-learning.udemy.com-2023.08.19-16_05_25.png",
@@ -187,20 +195,14 @@
     "images/screenshot-ibm-learning.udemy.com-2023.08.19-15_51_48.png",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/7. Database.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_2/Chapter 1.md",
-    "Automotive.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/5. ELB & ASG Elastic Load Balancing & Auto Scaling Groups.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/1. Introduction.md",
-    "README.md",
-    "2023-06-20.md",
     "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 1.md",
     "images/Screenshot 2023-07-30 at 22.40.01.png",
     "images/Screenshot 2023-07-30 at 22.46.52.png",
     "images/Screenshot 2023-07-30 at 23.41.03.png",
-    "images/Screenshot 2023-07-17 at 22.07.45.png",
-    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 6.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/4. EC2 Instance Storage.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Day 1.md"
+    "images/Screenshot 2023-07-17 at 22.07.45.png"
   ]
 }

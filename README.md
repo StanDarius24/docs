@@ -22,7 +22,6 @@ Software Engineer Roadmap docs
 #Frameworks
 - [ ] Spring Boot
 - [ ] Angular
-- [ ] Ktor
 
 #Tools
 - [ ] Docker
@@ -30,4 +29,9 @@ Software Engineer Roadmap docs
 #Books
 - [ ] Java Concurrency In Practice
 - [ ] Bertrand Meyer Object-oriented software construction
+- [x] Laur Spilca Start Here
+
+#certificate 
+- [ ] AWS Cloud Practitioner
+
 ---

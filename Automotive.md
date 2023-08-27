@@ -330,3 +330,241 @@ b) Accounts Receivable -> right
 c) Cash & Equivalents
 
 d) Other Current Assets
+
+---
+
+WEEK 1 QUEEZ
+
+Fleet buyers would typically expect what from automotive manufacturers in return for purchasing large volumes of vehicles?
+a) Exclusive models
+b) Discounted prices
+c) Free fuelling and maintenance
+d) Longer warranties
+
+b)
+
+---
+
+What does OEM stand for in the context of this industry?
+a) Outsourced electronic mechanism
+b) Outsourced engine manufacturer
+c) Open engine mechanics
+d) Original equipment manufacturer
+
+d)
+
+---
+
+Autonomous vehicles detect surroundings using radar, lidar, GPS, odometry, and computer vision
+
+TRUE
+
+---
+
+Pure-sales plays, for lead generation and management, logistics, including dealer management, vehicle location and demand sensing is performed by with function?
+a) Sales and marketing
+b) Design
+c) Manufacturing
+d) Engineering
+
+a)
+
+---
+
+Order processing, procurement, demand and production planning is part of which activity group in Automotive?
+a) Design
+b) Quality and warranty
+c) Mobility services
+d) Manufacturing
+
+d)
+
+---
+
+Cars and light vehicle production are the only activity of the automotive industry
+
+FALSE
+
+---
+
+Which of the following is not a strategic imperative of the Automotive Industry?
+a) Connected vehicle
+b) Industry 4.0
+c) Autonomous driving
+d) Vehicle accessories
+
+d)
+
+---
+
+What is a self-socialising vehicle capable of doing?
+a) Personalising and customising vehicle control preferences
+b) Analysing where to go, how often and why
+c) Networking with other vehicles with intelligent transportation systems, connected homes, emergency services, parking meters, and tolls
+d) Optimising the journey to the environment and occupants of the vehicle
+
+a) -> wrong still you can get 92%
+
+---
+
+The automotive industry is driving change along the 4 major principles of CASE.  What does CASE stand for?
+a) Convenience, availability, satisfaction, ease of use
+b) Connected, autonomous, shared economy, electric
+c) Charging, Apple/Android, security, energy
+d) Creative, adaptive, safe, efficient
+
+b)
+
+---
+
+If electric vehicles are known as EV's, what is a PHEV?
+a) Portable hydrogen
+b) Photovoltaic hybrid
+c) Pre-harnessed
+d) Plug-in hybrid
+
+d)
+
+---
+
+This is another term for a driverless, self-driving or robotic car that is capable of sensing its environment and navigating without human input.
+a) Telematics
+b) Advanced driver assistance systems (ADAS)
+c) Autonomous
+d) Cognitive driving
+
+c)
+
+---
+
+What is ADAS?
+a) Annual driver accident survey
+b) Autonomous driving and safety
+c) Auto-decision automotion system
+d) Advanced driver assistance system
+
+d)
+
+---
+
+WEEK 2 QUIZZ
+
+Where can you access listings of IBM SMEs and experts within your industry? Choose the best answer.
+a) IBM Institute for Business Value
+b) Your Guides at IBM
+c) Your Learning
+d) All of the choices listed
+
+d) -> wrong WTF?!?!?!
+
+---
+
+Which one of the following best describes the goal of managing an individual financial metric?
+a) Optimize the value of financial metrics in the context of a company's overall goals and strategies
+b) Minimize the value of the financial metric since this will increase overall performance
+c) Lower the value of the financial metric to increase cash flow that can be used to grow the business
+d) Manage the financial metric to be no higher than the industry average
+
+a)
+
+---
+
+What is the relationship between improvements in operational key performance indicators (KPIs) and quantifiable financial benefits?
+a) KPIs have defined formulas that make it easy to translate improvements into financial benefits
+b) All KPIs are quantitative and improvements are easily translated into financial benefits
+c) Some KPIs translate easily into financial benefits; others need assumptions of changes in other factors like human behavior
+d) KPIs expressed as a percentage of revenue translate easily into financial benefits; other need assumptions that mitigate their usefulness
+
+c)
+
+---
+
+What information can be sourced from the Industry Space?
+a) Industry news and blogs, IBM contacts and client win stories
+b) Social media data
+c) Client installed base information
+d) Industry marketing campaigns
+
+a)
+
+---
+
+Which of the below has the most potential to completely change an automotive manufacturer’s approach to sales and service?
+a) A build-up of unsold cars at dealer lots
+b) The focus on increasing vehicle software and electronics content
+c) An extended period of low oil prices
+d) Innovations in public transportation in urban centers
+
+b) 
+
+---
+
+Why are global car manufacturers sharing more and more vehicle platforms between the different models they produce?
+a) Due to regulatory pressure to cut emissions
+b) It allows manufacturers to reduce their manufacturing costs
+c) So they can increase the numbers of options available on each vehicle
+d) It allows manufacturers to increase the price to the customer
+
+b)
+
+---
+
+What are operational Key Performance Indicators (KPIs)?
+a) Financial metrics used to identify potential areas of opportunities
+b) The set of agreements, or contract, between a business and a vendor that defines the terms of the work the vendor does for the business
+c) Quantifiable metrics used to plan, measure and manage performance
+d) Mathematical values used to quantify business processes
+
+c)
+
+---
+
+The IBV creates and published thought leadership for IBM. What does IBV stand for?
+a) insights for Business Vantage
+b) Institute for Business Ventures
+c) Intelligence form Business Verbatims
+d) Institute for Business Value
+
+d)
+
+---
+
+What does IBM Content+ provide access to?
+a) External analyst reports and news
+b) IBM Industry Offerings & Solutions information and sales assets
+c) Industry marketing campaign information
+d) Client satisfaction and NPS data
+
+b)
+
+---
+
+What is the relationship between financial metrics and business processes?
+a) The value of a financial metric is influenced by how well the underlying business processes are managed
+b) The value of a business process is influenced by how well the underlying financial metrics are managed
+c) There is a well-defined mathematical relationship between most financial metrics and business processes
+d) Both financial metrics and business processes are quantifiable and exhibit well-defined relationships
+
+a)
+
+---
+
+In Automotive, traceability plays a crucial role in which process?
+a) Demand forecasting
+b) The product recall process
+c) Boosting manufacturing efficiency
+d) Buy-to-lease conversion
+
+b)
+
+---
+
+Which of the following activities are included in the Sales & Marketing business process?
+a) Supply chain management
+b) Quality assurance
+c) Warehouse management
+d) Digital and omni-channel marketing
+
+d)
+
+---
