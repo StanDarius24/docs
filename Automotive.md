@@ -568,3 +568,127 @@ d) Digital and omni-channel marketing
 d)
 
 ---
+
+Final Exam
+
+Which of the following will impact revenue growth in the Automotive industry?
+a) Demand for products
+b) Global economic growth
+c) Competition
+d) All of the choices listed
+d)
+
+---
+
+Which of the following companies is not part of the automotive industry?
+a) Shell
+b) Subaru
+c) Renault
+d) Volkswagen
+a)
+
+---
+
+Which of the following is NOT a key performance driver of revenue growth in the automotive industry?
+a) Global economic conditions
+b) Labour relations
+c) Product innovation
+d) Volume
+b)
+
+---
+
+Which resource can be used to practice your industry knowledge and point of view ahead of a client meeting?
+a) Your Learning
+b) Watson Media
+c) RealPlays
+d) Industry Expert podcasts
+c)
+
+---
+
+What tool would you use to find industry-specific IBM thought leadership?
+a) Your Guides at IBM
+b) Industry slack channels
+c) Institute for Business Value (IBV)
+d) w3 People
+c)
+
+---
+
+The concept of "Industry 4.0" refers to the industry's drive towards sustainability and minimising its environmental impact.
+false
+
+---
+
+You are looking for real-time intelligence and insights to more deeply understand your customers business and their markets. What tool should use use?
+a) Industry Hub
+b) IBM Checkpoint
+c) Your Guides at IBM
+d) GitHub
+a)
+
+---
+
+Due to the increase in shared mobility, vehicle unit sales are projected to decline slightly over the next 3 years.
+false
+
+---
+
+The IBV C-Suite studies focus on researching the views of which group of respondents?
+a) Technical staff
+b) Customers
+c) Senior business leaders
+d) Cross-sections of all levels within an organisation
+c)
+
+---
+
+In discussing revenue growth in automotive, executives often reference demand, changes in prices, and foreign exchange.
+true 
+
+---
+
+What is an example of a current asset?
+a) Inventory
+b) Accounts payable
+c) Property, plant & equipment
+d) goodwill
+a)
+
+---
+
+You are looking for an IBM colleague with specific expertise. What internal tool can you use to find IBMers based on their inferred skills and expertise?
+a) IBM Content+
+b) w3 People
+c) Your Learning
+d) Your Guides at IBM
+b)
+
+---
+
+Which aspect of an OEM’s business does the introduction of the CAFE standards in the USA impact the most?
+a) Research and development (R&D)
+b) Sales and marketing
+c) Supply chain management
+d) Answers a & c
+d)
+
+---
+
+A prospective automotive dealership client informs you they typically hold 40 days worth of inventory. This dealership holds ________ inventory than the industry average.
+a) Significantly more
+b) More
+c) The same
+d) Less
+
+d)
+
+---
+
+Which of the following is NOT a main activity of the Automotive Industry?
+a) Regulation
+b) Design
+c) Manufacture
+d) Quality and warranty
+a)

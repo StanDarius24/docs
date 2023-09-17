@@ -624,3 +624,140 @@ c)
 c)
 
 ---
+
+- Set 7
+
+1. CodeStar can be used to monitor and check the health of an environment.
+	a) true
+	b) false
+
+b)
+
+---
+
+2. Which AWS managed service allows to automate software deployments to a hybrid mix of EC2 Instances and On-Premises servers?
+	a) CodeDeploy
+	b) CloudFormation
+	c) Elastic Beanstalk
+	d) CodeStar
+
+a)
+
+---
+
+3. You are a software developer working on a project with your team. You need a secure and reliable version control system to store, share, and collaborate your code with the team. Which AWS service can help the developers?
+	a) CodeDeploy
+	b) CodeCommit
+	c) CodePipeline
+	d) Cloud9
+
+b)
+
+---
+
+4. You need a unified user interface that gives you visibility, control, and patching capabilities for your EC2 Instances on AWS, as well as for servers running in your on-premises data centers. Which service should you use?
+	a) Storage Gateway
+	b) OpsWorks
+	c) Elastic Container Service
+	d) Systems Manager
+
+d)
+
+---
+
+5. You need to use Chef or Puppet. Which AWS service should you use?
+	a) CloudFormation
+	b) CodeDeploy
+	c) OpsWorks
+	d) CodeCommit
+
+c)
+
+---
+
+6. A developer would like to deploy infrastructure on AWS but only knows Python. Which AWS service can assist him?
+	a) Software Development Kid (SDK)
+	b) Cloud Development Kit (CDK)
+	c) CloudFormation
+	d) CodeBuild
+
+b)
+
+---
+
+7. Which of the following allows you to deploy any AWS Infrastructure as a Code?
+	a) Elastic Beanstalk
+	b) OpsWorks
+	c) CloudFormation
+	d) Systems Manager
+
+c)
+
+---
+
+8. A new startup would like an online integrated development environment (IDE) to write, run, and debug code. Which AWS service can help with this task?
+	a) Cloud9
+	b) OpsWorks
+	c) CodeArtifact
+	d) CodeStar
+
+a)
+
+---
+
+9. Which service is referred to as a Platform as a Service (PaaS)?
+	a) Elastic Beanstalk
+	b) OpsWorks
+	c) CloudFormation
+	d) EC2
+
+a)
+
+---
+
+10. What is called the declaration of the AWS resources that make up a stack?
+	a) CloudFormation Schemas
+	b) CloudFormation Diagrams
+	c) CloudFormation Templates
+	d) CloudFormation Models
+
+c)
+
+---
+
+11. Which of the following services can a developer use to store code dependencies?
+	a) CodeBuild
+	b) CodeCommit
+	c) Cloud9
+	d) CodeArtifact
+
+d)
+
+---
+
+12. CodeStar can orchestrate the different steps to have code automatically pushed to production, while CodePipeline is a unified UI to easily manage software development activities in one place.
+	a) true
+	b) false
+
+b) AWS CodePipeline is a fully managed continuous delivery service that helps you automate your release pipelines for fast and reliable application and infrastructure updates. CodeStar is used to quickly develop, build, and deploy applications on AWS with a unified user interface.
+
+---
+
+13. Which serverless service can be used to build code and run tests?
+	a) CodeStar
+	b) Cloud Development Kit (CDK)
+	c) CodePipeline
+	d) CodeBuild
+
+d) AWS CodeBuild is a fully managed continuous integration service that compiles source code, runs tests, and produces software packages that are ready to deploy. With CodeBuild, you don’t need to provision, manage, and scale your own build servers, it is serverless.
+
+---
+
+14. CloudFormation and Elastic Beanstalk are free of use.
+true
+
+CloudFormation and Elastic Beanstalk are free of use, but you do pay for the resources created.
+
+---
+
+15. 

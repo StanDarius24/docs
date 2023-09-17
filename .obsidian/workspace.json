@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0294adfaa163c18f",
+        "id": "ad0a0bd20279154d",
         "type": "tabs",
         "children": [
           {
-            "id": "9da3af21e055ea70",
+            "id": "6428af1985ee24a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Terraform/04-Variables and Outputs.md",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 200
   },
   "right": {
     "id": "587658028fda4d19",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Terraform/04-Variables and Outputs.md",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Terraform/04-Variables and Outputs.md",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Terraform/04-Variables and Outputs.md"
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md"
               }
             }
           },
@@ -164,13 +164,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9da3af21e055ea70",
+  "active": "ed548165bf95ddea",
   "lastOpenFiles": [
-    "DevOps/Terraform/03-Terraform Overview + Setup.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/9. Deploying and Managing Infrastructure at Scale Section.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
+    "Screenshot 2023-09-17 at 21.41.43.png",
+    "Screenshot 2023-09-17 at 21.01.08.png",
+    "Screenshot 2023-09-17 at 20.44.49.png",
+    "Screenshot 2023-09-17 at 20.07.28.png",
+    "images/Screenshot 2023-09-17 at 19.24.00.png",
+    "images/Screenshot 2023-09-17 at 20.01.42.png",
+    "Books/Software Quality/Java Persistence with Spring Data and Hibernate Catalin Tudose/02-Understanding object relational persistence.md",
+    "Books/Software Quality/Java Persistence with Spring Data and Hibernate Catalin Tudose/01-Introduction.md",
+    "FrameWork/Spring Boot/JPA/01-Java Persistence API.md",
+    "Books/Software Quality/Java Persistence with Spring Data and Hibernate Catalin Tudose",
+    "FrameWork/Spring Boot/JPA/02-JPA with Spring.md",
+    "FrameWork/Spring Boot/JPA/Hibernate Statistics.md",
+    "Automotive.md",
     "DevOps/Terraform/04-Variables and Outputs.md",
+    "DevOps/Terraform/03-Terraform Overview + Setup.md",
     "DevOps/Terraform/02-Evolution of Cloud + Infrastructure as Code.md",
     "DevOps/Terraform/01-Introduction.md",
-    "Automotive.md",
     "DevOps/Terraform",
     "README.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/8. Other Compute Services.md",
@@ -188,21 +202,7 @@
     "Untitled.canvas",
     "images/screenshot-ibm-learning.udemy.com-2023.08.19-16_17_47.png",
     "images/Screenshot 2023-08-19 at 15.48.55.png",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/9. Deploying and Managing Infrastructure at Scale Section.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
     "images/screenshot-ibm-learning.udemy.com-2023.08.19-16_05_25.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.08.19-16_03_28.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.08.19-15_51_48.png",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/7. Database.md",
-    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_2/Chapter 1.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/5. ELB & ASG Elastic Load Balancing & Auto Scaling Groups.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/1. Introduction.md",
-    "Books/Software Quality/Laurentiu-Spilca-Spring-Start-Here-Learn-what-you-need-and-learn-it-well-Manning-2021/Part_1/Chapter 1.md",
-    "images/Screenshot 2023-07-30 at 22.40.01.png",
-    "images/Screenshot 2023-07-30 at 22.46.52.png",
-    "images/Screenshot 2023-07-30 at 23.41.03.png",
-    "images/Screenshot 2023-07-17 at 22.07.45.png"
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/7. Database.md"
   ]
 }
