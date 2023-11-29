@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad0a0bd20279154d",
+        "id": "c4ac1df3d0747fa5",
         "type": "tabs",
         "children": [
           {
-            "id": "6428af1985ee24a3",
+            "id": "70c44799c9625919",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 292.51103591918945
   },
   "right": {
     "id": "587658028fda4d19",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -143,6 +143,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "3751788a6395f378",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -164,45 +174,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed548165bf95ddea",
+  "active": "70c44799c9625919",
   "lastOpenFiles": [
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/9. Deploying and Managing Infrastructure at Scale Section.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
-    "Screenshot 2023-09-17 at 21.41.43.png",
-    "Screenshot 2023-09-17 at 21.01.08.png",
-    "Screenshot 2023-09-17 at 20.44.49.png",
-    "Screenshot 2023-09-17 at 20.07.28.png",
-    "images/Screenshot 2023-09-17 at 19.24.00.png",
-    "images/Screenshot 2023-09-17 at 20.01.42.png",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/12. Cloud Monitoring.md",
+    "images/screenshot-ibm-learning.udemy.com-2023.11.29-23_52_58.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.11.29-23_31_01.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.11.29-23_29_56.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.11.29-22_53_40.png",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/11. Cloud Integrations.md",
+    "images/Screenshot 2023-11-04 at 17.52.12.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.10.08-20_11_54.png",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/9. Deploying and Managing Infrastructure at Scale Section.md",
+    "FrameWork/Spring Boot/Async.md",
+    "Untitled.md",
+    "README.md",
+    "DevOps/2023-03-16.md",
+    "Automotive.md",
+    "images/screenshot-ibm-learning.udemy.com-2023.10.08-19_43_56.png",
+    "2023-06-20.md",
+    "images/screenshot-ibm-learning.udemy.com-2023.10.08-19_38_20.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.10.08-19_30_18.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.10.08-19_23_09.png",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/10. Leveraging the AWS Global Infrastructure.md",
+    "archive/1_ Spring.md",
+    "archive/4_ Security.md",
+    "OAuth2/JWT docs.md",
+    "DevOps/Jenkins/Jenkins integration in Github.md",
+    "DevOps/Github Actions",
+    "DevOps/Untitled.md",
+    "DevOps/Jenkins",
+    "DevOps/Github Actions/GITHUB ACTIONS.md",
     "Books/Software Quality/Java Persistence with Spring Data and Hibernate Catalin Tudose/02-Understanding object relational persistence.md",
     "Books/Software Quality/Java Persistence with Spring Data and Hibernate Catalin Tudose/01-Introduction.md",
     "FrameWork/Spring Boot/JPA/01-Java Persistence API.md",
     "Books/Software Quality/Java Persistence with Spring Data and Hibernate Catalin Tudose",
     "FrameWork/Spring Boot/JPA/02-JPA with Spring.md",
     "FrameWork/Spring Boot/JPA/Hibernate Statistics.md",
-    "Automotive.md",
     "DevOps/Terraform/04-Variables and Outputs.md",
     "DevOps/Terraform/03-Terraform Overview + Setup.md",
     "DevOps/Terraform/02-Evolution of Cloud + Infrastructure as Code.md",
-    "DevOps/Terraform/01-Introduction.md",
     "DevOps/Terraform",
-    "README.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/8. Other Compute Services.md",
-    "2023-06-20.md",
-    "2023-03-16.md",
-    "GITHUB ACTIONS.md",
-    "2023-01-16.md",
-    "Adapt.md",
-    "Boaty Mcboatface startup.md",
-    "Create Authorization Token.md",
-    "JWT docs.md",
-    "images/screenshot-ibm-learning.udemy.com-2023.08.20-19_37_12.png",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Untitled.canvas",
-    "images/screenshot-ibm-learning.udemy.com-2023.08.19-16_17_47.png",
-    "images/Screenshot 2023-08-19 at 15.48.55.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.08.19-16_05_25.png",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/7. Database.md"
+    "Untitled.canvas"
   ]
 }

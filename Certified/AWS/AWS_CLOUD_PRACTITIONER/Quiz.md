@@ -760,4 +760,188 @@ CloudFormation and Elastic Beanstalk are free of use, but you do pay for the res
 
 ---
 
-15. 
+- Set 8
+
+1. Which Route 53 Routing Policies would you use to route traffic to multiple resources in proportions that you specify?
+	a) Simple Routing Policy
+	b) Weighted Routing Policy
+	c) Latency Routing Policy
+	d) Failover Routing Policy
+
+b)
+
+---
+
+2. Which service is optimized to deploy ultra-low latency applications to 5G devices?
+	a) WaveLength
+	b) Route 53
+	c) CLoudFront
+
+a) 
+
+---
+
+3. You need to enable fast, easy, and secure transfers of files over long distances on S3. Which service would you use?
+	a) AWS Global Accelerator
+	b) S3 Transfer Acceleration
+	c) S3 Cross-Region Replication
+
+b) Amazon S3 Transfer Acceleration enables fast, easy, and secure transfers of files over long distances between your client and an S3 bucket. Transfer Acceleration takes advantage of Amazon CloudFront’s globally distributed edge locations. As the data arrives at an edge location, data is routed to Amazon S3 over an optimized network path.
+
+---
+
+4. What does AWS CloudFront use to improve read performance?
+	a) DDoS Protection
+	b) S3 Buckets Fast-Read
+	c) Caching Content in Edge Locations
+	d) Caching Content in Edge Regions
+
+c) 
+
+---
+
+5. Which service can be used to run AWS infrastructure and services on-premises for a hybrid cloud architecture?
+	a) CloudFront
+	b) Outposts
+	c) DMS
+	d) Storage Gateway
+
+b)
+
+---
+
+6. Which of the following statements is NOT a reason for a global application?
+	a) Decreased Latency
+	b) Disaster Recovery
+	c) Scale elastically on demand
+	d) Attack protection
+
+c)
+
+---
+
+7. Which features are available with Route 53?
+	a) Health Checks, Auto Scaling, Routing Policy, DNS
+	b) Load Balancing, DNS, Domain Registration, Monitoring
+	c) Domain Registration, DNS, Health Checks, DDoS Protection
+	d) Domain Registration, DNS, Health Checks, Routing Policy
+
+d)
+
+---
+
+8. With which services does CloudFront integrate to protect against web attacks?
+	a) WAF & Shield
+	b) WAF & IAM
+	c) IAM & Shield
+	d) Security Groups & WAF
+
+a) You can use AWS WAF web access control lists (web ACLs) to help minimize the effects of a distributed denial of service (DDoS) attack. For additional protection against DDoS attacks, AWS also provides AWS Shield Standard and AWS Shield Advanced.
+
+---
+
+- Set 9
+
+1. A company using Apache ActiveMQ is migrating to the cloud. Which AWS service can it use to easily set up and operate its message brokers in the cloud?
+	a) Amazon SQS
+	b) Amazon SNS
+	c) Amazon MQ
+	d) Amazon Kinesis
+
+c) Amazon MQ is a managed message broker service for Apache ActiveMQ and RabbitMQ that makes it easy to set up and operate message brokers in the cloud.
+
+---
+
+2. Which service is a fully managed pub/sub messaging service that makes it easy to set up, operate, and send notifications from the cloud, using a push-based system?
+	a) Simple Notification Service (SNS)
+	b) Simple Queue Service (SQS)
+	c) Auto Scaling Groups (ASG)
+
+a) Amazon Simple Notification Service (SNS) is a highly available, durable, secure, fully managed pub/sub messaging service that enables you to decouple microservices, distributed systems, and serverless applications. It uses a push-based system.
+
+---
+
+3. You can use Kinesis to perform real-time analysis from video streams.
+	True, Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information. Kinesis offers four services: Data Firehose, Data Analytics, Data Streams, Video Streams.
+
+---
+
+4. Which principle is mainly applied when using Amazon SQS or Amazon SNS?
+	a) Scalability
+	b) Automation
+	c) Decouple your applications
+
+c) When using SQS or SNS, you apply the "decouple your applications” principle. This means that IT systems should be designed in a way that reduces interdependencies—a change or a failure in one component should not cascade to other components.
+
+---
+
+5. Which service allows you to send, store, and receive messages between software components at any volume, without losing messages or requiring other services to be available, using a pull-based system?
+	a) Simple Notification Service (SNS)
+	b) Simple Queue Service (SQS)
+	c) Auto Scaling Groups (ASG)
+
+b) Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It uses a pull-based system.
+
+---
+
+- Set 10
+
+1. Which CloudWatch feature would you use to trigger notifications when a metric reaches a threshold you specify?
+	 a) CloudWatch Events
+	 b) CloudWatch Logs
+	 c) CloudWatch Alarms
+	 d) CloudWatch Triggers
+
+c) The CloudWatch Alarms feature allows you to watch CloudWatch metrics and to receive notifications when the metrics fall outside of the levels (high or low thresholds) that you configure.
+
+2. Which AWS service helps developers analyze and debug production as well as distributed applications?
+	a) CloudWatch
+	b) X-Ray
+	c) Service Health Dashboard
+	d) CloudTrail
+
+b) AWS X-Ray helps developers analyze and debug production, distributed applications, such as those built using a microservices architecture.
+
+3. Which AWS service provides alerts and remediation guidance when AWS is experiencing events that may impact you?
+	a) Service Health Dashboard
+	b) CloudWatch
+	c) AWS health Dashboard
+	d) CloudTrail
+c) AWS Health Dashboard provides alerts and remediation guidance when AWS is experiencing events that may impact you.
+
+4. You need to set up metrics monitoring for every service in AWS. Which service would you use?
+	 a) CloudTrail
+	 b) X-Ray
+	 c) CloudWatch
+	 d) Personal Health Dashboard
+
+c) Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, and set alarms.
+
+5. Which service allows you to inspect, audit, and record events and API calls made within your AWS account?
+	a) X-Ray
+	b) CloudWatch
+	c) CloudTrail
+
+c) AWS CloudTrail is a web service that records activity made on your account and delivers log files to your Amazon S3 bucket. AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account.
+
+6. Which AWS service automatically analyzes code and provides performance recommendations?
+	a) X-Ray
+	b) CodePipeline
+	c) CodeGuru
+
+c) Amazon CodeGuru is a developer tool that provides intelligent recommendations to improve code quality and identify an application’s most expensive lines of code.
+
+7. How would you describe Amazon CloudWatch Logs?
+	a) A single, highly scalable service that centralizes the logs from all of your systems, applications, and AWS services that you use
+	b) A service that provides a real-time stream of system events that describe changes in AWS resources
+	c) A service that enables governance, compliance, operational auditing, and risk auditing of your AWS account
+	d) A service that lets you run code without provisioning or managing servers
+
+a) You can use Amazon CloudWatch Logs to monitor, store, and access your log files from Amazon Elastic Compute Cloud (Amazon EC2) instances, AWS CloudTrail, Route 53, and other sources.
+
+8. If a resource is deleted in AWS, which service should you use to investigate first?
+	a) CloudTrail
+	b) CloudWatch Logs
+	c) Personal Health Dashboard
+
+a) CloudTrail can record the history of events/API calls made within you AWS account, which will help determine who or what deleted the resource. You should investigate it first.
