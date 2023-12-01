@@ -945,3 +945,70 @@ a) You can use Amazon CloudWatch Logs to monitor, store, and access your log fil
 	c) Personal Health Dashboard
 
 a) CloudTrail can record the history of events/API calls made within you AWS account, which will help determine who or what deleted the resource. You should investigate it first.
+
+---
+
+- Set 11
+
+1) Your private subnets need to connect to the Internet while still remaining private. Which AWS-managed VPC component allows you to do this?
+	a) NAT Instance
+	b) Internet Gateway
+	c) Security Groups
+	d) NAT Gateways
+
+d) NAT Gateways allow your instances in your private subnets to access the Internet while remaining private, and are managed by AWS.
+
+2) A public subnet is accessible from the Internet while a private subnet is not accessible from the Internet.
+	a) Yes
+	b) No, all subnets are accessible from the internet
+	c) No, all subnets are not accessible from the internet
+
+a) A public subnet is accessible from the Internet while a private subnet is not accessible from the Internet.
+
+3) Which type of firewall has both ALLOW and DENY rules and operates at the subnet level?
+	a) Network Access Control List (NACL)
+	b) Web Application Firewall (WAF)
+	c) Security Groups
+	d) GuardDuty
+
+a) A network access control list (NACL) is an optional layer of security for your VPC that acts as a firewall for controlling traffic in and out of one or more subnets. They have both ALLOW and DENY rules.
+
+4) You would like to connect hundreds of VPCs and your on-premises data centers together. Which AWS service allows you to do link all these together efficiently?
+	a) Site-to-Site VPN
+	b) Transit Gateway
+	c) Internet Gateway
+	d) Direct Connect
+
+b) Transit Gateway connects thousands of VPC and on-premises networks together in a single gateway.
+
+5) A company needs two VPCs to communicate with each other. What can they use?
+	a) VPC Endpoints
+	b) AWS Direct Connect
+	c) Internet Gateway
+	d) VPC Peering
+
+d) VPC Peering connection is a networking connection between two VPCs using AWS' network.
+
+6) You need a logically isolated section of AWS, where you can launch AWS resources in a private network that you define. What should you use?
+	a) Subnets
+	b) Availability Zones
+	c) A VPC
+	d) NAT Instances
+
+c) A virtual private cloud (VPC) is a virtual network dedicated to your AWS account. It is logically isolated from other virtual networks in the AWS Cloud. You can launch your AWS resources, such as Amazon EC2 instances, into your VPC.
+
+7) A company needs to have a private, secure, and fast connection between its on-premises data centers and the AWS Cloud. Which connection should they use?
+	a) AWS Connect
+	b) Site-to-Site VPN
+	c) VPC Peering
+	d) AWS Direct Connect
+
+d) AWS Direct Connect is a cloud service solution that makes it easy to establish a dedicated private network connection from your premises to AWS.
+
+8) Your VPC needs to connect with the Internet. Which VPC component can help?
+	a) NAT Gateways
+	b) NAT Instances
+	c) network ACL
+	d) Internet Gateway
+
+d) An internet gateway is a horizontally scaled, redundant, and highly available VPC component that allows communication between your VPC and the internet.

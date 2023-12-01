@@ -11,11 +11,9 @@
             "id": "70c44799c9625919",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "images/screenshot-ibm-learning.udemy.com-2023.11.30-16_10_23.png"
               }
             }
           }
@@ -77,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.51103591918945
+    "width": 200
   },
   "right": {
     "id": "587658028fda4d19",
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "images/screenshot-ibm-learning.udemy.com-2023.11.30-16_10_23.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "images/screenshot-ibm-learning.udemy.com-2023.11.30-16_10_23.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "images/screenshot-ibm-learning.udemy.com-2023.11.30-16_10_23.png"
               }
             }
           },
@@ -174,28 +172,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70c44799c9625919",
+  "active": "ed548165bf95ddea",
   "lastOpenFiles": [
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/13. VPC & Networking.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
+    "images/screenshot-ibm-learning.udemy.com-2023.12.02-00_25_53.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.12.02-00_24_04.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.12.02-00_22_11.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.12.02-00_19_28.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.12.02-00_07_43.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.12.02-00_03_32.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.12.01-23_59_15.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.12.01-20_54_13.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.11.30-16_10_23.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.11.30-15_59_49.png",
+    "Untitled.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/12. Cloud Monitoring.md",
-    "images/screenshot-ibm-learning.udemy.com-2023.11.29-23_52_58.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.11.29-23_31_01.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.11.29-23_29_56.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.11.29-22_53_40.png",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/11. Cloud Integrations.md",
-    "images/Screenshot 2023-11-04 at 17.52.12.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.10.08-20_11_54.png",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/9. Deploying and Managing Infrastructure at Scale Section.md",
     "FrameWork/Spring Boot/Async.md",
-    "Untitled.md",
     "README.md",
     "DevOps/2023-03-16.md",
     "Automotive.md",
-    "images/screenshot-ibm-learning.udemy.com-2023.10.08-19_43_56.png",
     "2023-06-20.md",
-    "images/screenshot-ibm-learning.udemy.com-2023.10.08-19_38_20.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.10.08-19_30_18.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.10.08-19_23_09.png",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/10. Leveraging the AWS Global Infrastructure.md",
     "archive/1_ Spring.md",
     "archive/4_ Security.md",
@@ -213,7 +212,6 @@
     "FrameWork/Spring Boot/JPA/Hibernate Statistics.md",
     "DevOps/Terraform/04-Variables and Outputs.md",
     "DevOps/Terraform/03-Terraform Overview + Setup.md",
-    "DevOps/Terraform/02-Evolution of Cloud + Infrastructure as Code.md",
     "DevOps/Terraform",
     "Untitled.canvas"
   ]
