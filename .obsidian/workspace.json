@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70c44799c9625919",
+            "id": "e8c5ad37119801aa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/screenshot-ibm-learning.udemy.com-2023.11.30-16_10_23.png"
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/screenshot-ibm-learning.udemy.com-2023.11.30-16_10_23.png",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/screenshot-ibm-learning.udemy.com-2023.11.30-16_10_23.png",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/screenshot-ibm-learning.udemy.com-2023.11.30-16_10_23.png"
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md"
               }
             }
           },
@@ -149,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -172,30 +176,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed548165bf95ddea",
+  "active": "e8c5ad37119801aa",
   "lastOpenFiles": [
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/13. VPC & Networking.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
-    "images/screenshot-ibm-learning.udemy.com-2023.12.02-00_25_53.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.12.02-00_24_04.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.12.02-00_22_11.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.12.02-00_19_28.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.12.02-00_07_43.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.12.02-00_03_32.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.12.01-23_59_15.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.12.01-20_54_13.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.11.30-16_10_23.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.11.30-15_59_49.png",
-    "Untitled.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/12. Cloud Monitoring.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/11. Cloud Integrations.md",
+    "Duplex.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.03-22_44_34 1.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.03-23_45_37.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.03-23_27_39.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.03-23_30_29.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.12.03-21_26_31.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.03-22_44_34.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.03-22_12_04.png",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/1. Introduction.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/4. EC2 Instance Storage.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/5. ELB & ASG Elastic Load Balancing & Auto Scaling Groups.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/7. Database.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/8. Other Compute Services.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/9. Deploying and Managing Infrastructure at Scale Section.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/10. Leveraging the AWS Global Infrastructure.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/11. Cloud Integrations.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/12. Cloud Monitoring.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/13. VPC & Networking.md",
+    "images/screenshot-ibm-learning.udemy.com-2023.12.28-18_40_31.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.12.28-00_27_34.png",
+    "images/screenshot-ibm-learning.udemy.com-2023.12.23-14_15_29.png",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
     "FrameWork/Spring Boot/Async.md",
     "README.md",
     "DevOps/2023-03-16.md",
     "Automotive.md",
     "2023-06-20.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/10. Leveraging the AWS Global Infrastructure.md",
     "archive/1_ Spring.md",
     "archive/4_ Security.md",
     "OAuth2/JWT docs.md",
@@ -203,15 +215,7 @@
     "DevOps/Github Actions",
     "DevOps/Untitled.md",
     "DevOps/Jenkins",
-    "DevOps/Github Actions/GITHUB ACTIONS.md",
-    "Books/Software Quality/Java Persistence with Spring Data and Hibernate Catalin Tudose/02-Understanding object relational persistence.md",
-    "Books/Software Quality/Java Persistence with Spring Data and Hibernate Catalin Tudose/01-Introduction.md",
-    "FrameWork/Spring Boot/JPA/01-Java Persistence API.md",
     "Books/Software Quality/Java Persistence with Spring Data and Hibernate Catalin Tudose",
-    "FrameWork/Spring Boot/JPA/02-JPA with Spring.md",
-    "FrameWork/Spring Boot/JPA/Hibernate Statistics.md",
-    "DevOps/Terraform/04-Variables and Outputs.md",
-    "DevOps/Terraform/03-Terraform Overview + Setup.md",
     "DevOps/Terraform",
     "Untitled.canvas"
   ]
