@@ -25,6 +25,9 @@ Software Engineer Roadmap docs
 
 #Tools
 - [ ] Docker
+- [ ] Kubernetes
+- [ ] Terraform
+- [ ] HELM
 
 #Books
 - [ ] Java Concurrency In Practice

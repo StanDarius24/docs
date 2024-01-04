@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 408.50390243530273
   },
   "right": {
     "id": "587658028fda4d19",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md"
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md"
               }
             }
           },
@@ -178,8 +178,11 @@
   },
   "active": "e8c5ad37119801aa",
   "lastOpenFiles": [
-    "Duplex.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/15. Machine Learning.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md",
+    "README.md",
+    "Duplex.md",
     "images/screenshot-ibm-learning.udemy.com-2024.01.03-22_44_34 1.png",
     "images/screenshot-ibm-learning.udemy.com-2024.01.03-23_45_37.png",
     "images/screenshot-ibm-learning.udemy.com-2024.01.03-23_27_39.png",
@@ -202,9 +205,7 @@
     "images/screenshot-ibm-learning.udemy.com-2023.12.28-18_40_31.png",
     "images/screenshot-ibm-learning.udemy.com-2023.12.28-00_27_34.png",
     "images/screenshot-ibm-learning.udemy.com-2023.12.23-14_15_29.png",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
     "FrameWork/Spring Boot/Async.md",
-    "README.md",
     "DevOps/2023-03-16.md",
     "Automotive.md",
     "2023-06-20.md",

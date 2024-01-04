@@ -1012,3 +1012,269 @@ d) AWS Direct Connect is a cloud service solution that makes it easy to establis
 	d) Internet Gateway
 
 d) An internet gateway is a horizontally scaled, redundant, and highly available VPC component that allows communication between your VPC and the internet.
+
+---
+
+- Set 12
+
+1. Data sitting on an RDS instance would be referred to as?
+	a) Data in transit
+	b) Data in rest
+	c) Encrypted data
+
+b)
+
+---
+
+2. According to the Shared Responsibility Model, who is responsible for firewall and network configuration for EC2 Instances?
+	a) AWS
+	b) The customer
+	c) AWS and the customer
+
+b) The customer is responsible for firewall and network configuration. Customers are responsible for "Security IN the Cloud". It also includes server-side encryption, client-side data protection, customer data protection, etc.
+
+---
+
+3. Which of the following services can you use to discover and protect your sensitive data in AWS?
+	a) Macie
+	b) Shield
+	c) Artifact
+	d) X-Ray
+
+a) Amazon Macie is a security service that uses machine learning to automatically discover, classify, and protect sensitive data in AWS, such as personally identifiable information (PII) or intellectual property.
+
+---
+
+4. Which AWS service lets you quickly find the root of potential security issues to take faster actions?
+	a) Inspector
+	b) Detective
+	c) CloudWatch
+	d) WAF
+
+b) Amazon Detective makes it easy to analyze, investigate, and quickly identify the root cause of potential security issues or suspicious activities.
+
+---
+
+5. A company would like to protect its web applications from common web exploits that may affect availability, compromise security, or consume excessive resources. Which AWS service should they use?
+	a) Auto Scaling Groups (ASG)
+	b) Shield
+	c) CloudHSM
+	d) Web Application Firewall (WAF)
+
+d) AWS WAF is a web application firewall that helps protect your web applications or APIs against common web exploits that may affect availability, compromise security, or consume excessive resources.
+
+---
+
+6. Where can you find on-demand access to AWS compliance documentation and AWS agreements?
+	a) Artifact
+	b) Personal Health Dashboard
+	c) Secrets Manager
+	d) Shared Responsibility Model
+
+a) AWS Artifact is your go-to, central resource for compliance-related information that matters to you.
+
+---
+
+7. You can perform any kind of penetration testing on any AWS service without prior approval.
+
+false
+
+---
+
+8. You want to record configurations and changes over time. Which service allows you to do this?
+	a) Config
+	b) Inspector
+	c) GuardDuty
+	d) Secrets Manager
+
+a) AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.
+
+---
+
+9. A company would like to secure network communications using SSL & TLS certificates. Which AWS service can it use?
+	a) Certificate Manager (ACM)
+	b) Secrets Manager
+	c) Macie
+	d) WAF
+
+a) AWS Certificate Manager is a service that lets you easily provision, manage, and deploy public and private Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates for use with AWS services and your internal connected resources.
+
+---
+
+10. According to the Shared Responsibility Model, who is responsible for Patch Management?
+	a) AWS
+	b) The customer
+	c) AWS and the customer
+
+c) AWS is responsible for patching and fixing flaws within the infrastructure, but customers are responsible for patching their guest OS and applications. Shared Controls also includes Configuration Management, and Awareness and Training.
+
+---
+
+11. You want to centrally automate security checks across several AWS accounts. Which AWS service can you use?
+	a) Macie
+	b) Detective
+	c) CloudTrail
+	d) Security Hub
+
+d) AWS Security Hub provides you with a comprehensive view of your security state within AWS and your compliance with security standards and best practices.
+
+---
+
+12. Which of the following services is managed by AWS and is used to manage encryption keys?
+	a) CloudHSM
+	b) KMS
+	c) AWS Secrets Manager
+	d) IAM
+
+b) AWS KMS is a managed service that enables you to easily create and control the keys used for cryptographic operations. It is managed by AWS.
+
+---
+
+13. A company would like to automate security on EC2 instances to assess security and vulnerabilities in these instances. Which AWS service should it use?
+	a) Config
+	b) Trusted Advisor
+	c) Inspector
+	d) Systems Manager
+
+c) Amazon Inspector is an automated security assessment service that helps improve the security and compliance of applications deployed on AWS. It helps you test the network accessibility of your Amazon EC2 instances and the security state of your applications running on the instances.
+
+---
+
+14. Which of the following actions does NOT require the root user?
+	a) Close your AWS account
+	b) Change your AWS Support plan
+	c) Register as a reseller in the Reserved Instance Marketplace
+	d) Access the billing dashboard
+
+d) This is an action that does not require the root user. By default, only the root user can access the billing dashboard, but you can attach a policy to an IAM user for it to access the billing dashboard
+
+---
+
+15. According to the Shared Responsibility Model, who is responsible for protecting hardware?
+	a) AWS
+	b) The customer
+	c) AWS and the customer
+
+a) AWS is responsible for protecting hardware. AWS is responsible for "Security OF the Cloud". AWS is also responsible for the infrastructure that runs all services in the AWS Cloud, etc.
+
+---
+
+16. Which AWS service's ONLY role is to safeguard running applications from DDoS attacks?
+	a) WAF
+	b) Shield
+	c) CloudFront
+	d) KMS
+
+b) Shield is only used to safeguard running applications from DDoS attacks.
+
+---
+
+17. Which service is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts and workloads?
+	a) KMS
+	b) WAF
+	c) Inspector
+	d) GuardDuty
+
+d) Amazon GuardDuty is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts and workloads.
+
+---
+
+18. Which of the following options is NOT a situation where you should contact the AWS Abuse team?
+	a) DDoS attack from AWS-owned IP addresses
+	b) Spam from AWS-owned IP addresses or AWS resources
+	c) Hosting objectionable or copyrighted content on AWS
+	d) Losing your MFA device
+
+ d) This is not a situation where you should contact the AWS Abuse team. The situations where you should contact the AWS Abuse team are: Spam, Port scanning, DoS or DDoS attacks, Intrusion attempts, Hosting objectionable or copyrighted content, Distributing malware.
+
+---
+
+- Set 13
+
+1. You should use Amazon Transcribe to turn text into lifelike speech using deep learning.
+	false
+
+---
+
+2. A company would like to implement a chatbot that will convert speech-to-text and recognize the customers' intentions. What service should it use?
+	a) Transcribe
+	b) Rekognition
+	c) Connect
+	d) Lex
+
+d) Amazon Lex is a service for building conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions.
+
+---
+
+3. Which fully managed service can deliver highly accurate forecasts?
+	 Forecast
+
+---
+
+4. You would like to find objects, people, text, or scenes in images and videos. What AWS service should you use?
+	a) Rekognition
+	b) Polly
+	c) Kendra
+	d) Lex
+
+a) Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use.
+
+---
+
+5. A start-up would like to rapidly create customized user experiences. Which AWS service can help?
+	a) Personalize
+	b) Kendra
+	c) Connect
+
+a) Amazon Personalize is a machine learning service that makes it easy for developers to create individualized recommendations for customers using their applications.
+
+---
+
+6. A research team would like to group articles by topics using Natural Language Processing (NLP). Which service should they use?
+	a) translate
+	b) Comprehend
+	c) Lex
+	d) Rekognition
+
+b) Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find meaning and insights in text.
+
+---
+
+7. A company would like to convert its documents into different languages, with natural and accurate wording. What should they use?
+	a) Transcribe
+	b) Polly
+	c) Translate
+	d) WordTranslator
+
+c) Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation.
+
+---
+
+8. A developer would like to build, train, and deploy a machine learning model quickly. Which service can he use?
+	a) SageMaker
+	b) Polly
+	c) Comprehend
+	d) Personalize
+
+a) Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.
+
+---
+
+9. Which AWS service makes it easy to convert speech-to-text?
+	a) Connect
+	b) Translate
+	c) Transcribe
+	d) Polly
+
+c) Amazon Transcribe is an AWS service that makes it easy for customers to convert speech-to-text.
+
+---
+
+10. Which of the following services is a document search service powered by machine learning?
+	a) Forecast
+	b) Kendra
+	c) Comprehend
+	d) Polly
+
+b) Amazon Kendra is a highly accurate and easy to use enterprise search service that’s powered by machine learning.
+
