@@ -1278,3 +1278,201 @@ c) Amazon Transcribe is an AWS service that makes it easy for customers to conve
 
 b) Amazon Kendra is a highly accurate and easy to use enterprise search service that’s powered by machine learning.
 
+---
+
+- Set 14
+
+1. Which tool allows you to centrally manage all users and roles permissions in your organization?
+	a) Technical Account Manager (TAM)
+	b) Service control policies
+	c) IAM
+	d) Config
+
+b) Service control policies (SCPs) are a type of organization policy that you can use to manage permissions in your organization. An SCP spans all IAM users, groups, and roles, including the AWS account root user.
+
+---
+
+2. You would like to automatically set up and govern a secure multi-account AWS environment with best practices for your organization. Which AWS tool can you use?
+	a) Control Tower
+	b) Organizations
+	c) Trusted Advisor
+	d) Security Hub
+
+a) AWS Control Tower offers the easiest way to set up and govern a new, secure, multi-account AWS environment. It establishes a landing zone that is based on best-practices blueprints, and enables governance using guardrails you can choose from a pre-packaged list.
+
+---
+
+3. A company would like recommendations regarding its performance, security, and fault tolerance. What can it use?
+	a) Inspector
+	b) Config
+	c) Trusted Advisor
+	d) Technical Account Manager
+
+c) AWS Trusted Advisor is an online tool that provides you real time guidance to help you provision your resources following AWS best practices, including performance, security, and fault tolerance, but also cost optimization and service limits.
+
+---
+
+4. Which of the following is INCORRECT regarding AWS Organizations?
+	a) Manage multiple AWS accounts
+	b) Consolidated billing across all accounts
+	c) Volume discounts from aggregated usage
+	d) Faster access to the AWS Support
+
+d) AWS Organizations does not offer faster access to the AWS Support.
+
+---
+
+5. What is the most cost-effective option to have 24x7 phone, email, and chat support?
+	a) Basic Support Plan
+	b) Developer Support Plan
+	c) Enterprise Support Plan
+	d) Business Support Plan
+
+d) Business Support Plan is the most cost-effective option that offers 24x7 phone, email, and chat support.
+
+---
+
+6. What can you use to estimate the cost of your architecture solution?
+	a) Simple Monthly Calculator/Pricing Calculator
+	b) Cost and Usage Reports
+	c) Total Cost of Ownership (TCO)
+	d) Trusted Advisor
+
+a) The AWS Simple Monthly Calculator is an easy-to-use online tool that enables you to estimate their architecture solution monthly cost of AWS services for your use case based on your expected usage. It is being replaced by AWS Pricing Calculator.
+
+---
+
+7. The Enterprise Support Plan comes with a business-critical system down response under 15 minutes and offers access to a Technical Account Manager, as well as a Concierge Support Team.
+	True
+
+---
+
+8. A company is not sure whether or not it is cost-effective to migrate to the AWS Cloud. Which service can help the executive board make a decision?
+	a) Simple Monthly Calculator
+	b) Pricing Calculator
+	c) Billing Dashboard
+	d) Cost Explorer
+
+b) AWS Pricing Calculator is a web based service that you can use to create cost estimates to suit your AWS use cases. AWS Pricing Calculator is useful both for people who have never used AWS and for those who want to reorganize or expand their usage.
+
+---
+
+9. What do Resource Groups rely on to group your resources?
+	a) Labels
+	b) Categories
+	c) Tags
+	d) Stickers
+
+c) You can assign metadata to your AWS resources in the form of tags. Tags can help you manage, identify, organize, search for, and filter resources.
+
+---
+
+10. What can you use to get alerts when your costs and usage are exceeding or are forecasted to exceed your budgeting amount?
+	a) CloudWatch Billing Alarms
+	b) Budgets
+	c) Cost and Usage Reports
+	d) Billing Dashboard
+
+b) AWS Budgets gives you the ability to set custom budgets that alert you when your costs or usage exceed (or are forecasted to exceed) your budgeted amount. Difference with CloudWatch Billing Alarms: CloudWatch Billing Alarms only send alerts when your costs and usage are exceeding your budget, not when it is forecasted to exceed your budget, while AWS Budgets does both.
+
+---
+
+11. A company would like to choose the best Savings Plan and forecast its cost in the next 3 months. Which AWS service can help?
+	a) Cost and Usage Reports
+	b) Budgets
+	c) Cost Explorer
+	d) Forecast
+
+c) Cost Explorer can be used to forecast usage up to 12 months based on the previous usage. It can also be used to choose an optimal Savings Plan. Cost Explorer has an easy-to-use interface that lets you visualize, understand, and manage your AWS costs and usage over time.
+
+---
+
+12. Which of the following options uses machine learning to recommend optimal AWS resources and therefore reduces costs?
+	a) Trusted Advisor
+	b) Budgets
+	c) Cost Explorer
+	d) Compute Optimizer
+
+d) AWS Compute Optimizer recommends optimal AWS resources for your workloads to reduce costs and improve performance by using machine learning to analyze historical utilization metrics.
+
+---
+
+- Set 15
+
+1. Which services are free to use in AWS?
+	a) IAM, VPC, Consolidated Billing, and Elastic Beanstalk
+	b) Elastic Beanstalk, CloudFormation, Auto Scaling Groups, and Lambda
+	c) SNS, SQS, IAM, VPC
+	d) All services have a free tier included
+
+a) These services are free to use. Be careful, the resources created in Elastic Beanstalk (as well as in CloudFormation and Auto Scaling Groups) are not free.
+
+---
+
+2. CloudFront pricing is the same in every geographic region.
+	CloudFront pricing is different across different geographic regions.
+
+---
+
+3. When you reserve, the larger the upfront payment, the smaller the discount.
+	a) True
+	b) False, the upfront payment does not matter on the discount
+	c) False, the larger the upfront, the bigger the discount
+
+c) When the upfront payment is higher, the discount is bigger.
+
+---
+
+4. Which of the following is NOT a pricing factor in S3?
+	a) Storage class
+	b) Data transfer into S3
+	c) Objects size
+	d) Type of requests
+
+b) Inbound data transfer in the S3 region is free.
+
+---
+
+5. EBS Snapshots are added cost in GB per month.
+	The added data storage by EBS Snapshots are added cost in GB per month to EBS pricing. Other EBS pricing factors are: Volume type, Provisioned storage volume, IOPS, etc.
+
+---
+
+6. Which of the following options can provide up to 66% discount compared to On-demand for a commitment to a consistent amount of usage for 1 or 3 years and offers the possibility to change EC2 instances family type?
+	a) Spot instances
+	b) Reserved instances
+	c) Compute Savings Plans
+	d) EC2 Instances Savings Plans
+
+c) Compute Savings Plans provide the most flexibility and help to reduce your costs by up to 66% in exchange for a commitment to a consistent amount of usage for a 1 or 3 year term. These plans automatically apply to EC2 instance usage regardless of instance family, size, AZ, region, OS or tenancy, and also apply to Fargate or Lambda usage.
+
+---
+
+7. You are running an on-demand Linux EC2 instance, what timing is applied regarding billing?
+	a) Pay per minute
+	b) Pay per hour
+	c) Pay per day
+	d) Pay per second
+
+d) With Linux EC2 instances, you pay per second of compute capacity. There is also a minimum of 60s of use.
+
+---
+
+8. Which pricing model allows you to minimize risks, predictably manage budgets, and comply with long-term requirements, and is available for EC2, DynamoDB, ElastiCache, RDS, and Redshift?
+	a) Pay as you go
+	b) Pay less as AWS grows
+	c) Pay less by using more
+	d) Save when you reserve
+
+d) Reservations are available for EC2 Reserved Instances, DynamoDB Reserved Capacity, ElastiCache Reserved Nodes, RDS Reserved Instance, Redshift Reserved Nodes. Reservations allow you to minimize risks, predictably manage budgets and comply with long-term requirements.
+
+---
+
+9. Which RDS pricing option is the most cost-effective if you need capacity for 3 years?
+	a) On-demand
+	b) Spot Instances
+	c) Dedicated Instances
+	d) reserved instances
+
+d) Reserved Instances are good and more cost-effective (up to 69% discount compared to On-demand pricing, depending on the upfront) for long workloads. You can reserve instances for 1 or 3 years in RDS.
+
