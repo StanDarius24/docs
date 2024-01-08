@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c4ac1df3d0747fa5",
+        "id": "57e2a1d37367c448",
         "type": "tabs",
         "children": [
           {
-            "id": "e8c5ad37119801aa",
+            "id": "e93afb00d6ebda2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/16. Account Management & Billing & Support.md",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/16. Account Management & Billing & Support.md",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/16. Account Management & Billing & Support.md",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/16. Account Management & Billing & Support.md"
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md"
               }
             }
           },
@@ -176,13 +176,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8c5ad37119801aa",
+  "active": "e93afb00d6ebda2c",
   "lastOpenFiles": [
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/18. Other Services.md",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.09-01_16_21.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.09-01_38_51.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.09-01_29_37.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.09-01_27_28.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.09-01_25_21.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.09-01_20_50.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.09-01_19_00.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.09-01_16_33.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.08-23_48_15.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.01.09-00_57_24.png",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/17. Advanced identity.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/16. Account Management & Billing & Support.md",
-    "images/screenshot-ibm-learning.udemy.com-2024.01.07-22_05_33.png",
-    "images/screenshot-ibm-learning.udemy.com-2024.01.04-20_43_33.png",
-    "images/screenshot-ibm-learning.udemy.com-2024.01.04-19_44_38.png",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/15. Machine Learning.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md",
@@ -200,19 +209,10 @@
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/1. Introduction.md",
     "README.md",
     "Duplex.md",
-    "images/screenshot-ibm-learning.udemy.com-2024.01.03-22_44_34 1.png",
-    "images/screenshot-ibm-learning.udemy.com-2024.01.03-23_45_37.png",
-    "images/screenshot-ibm-learning.udemy.com-2024.01.03-23_27_39.png",
-    "images/screenshot-ibm-learning.udemy.com-2024.01.03-23_30_29.png",
-    "images/screenshot-ibm-learning.udemy.com-2023.12.03-21_26_31.png",
-    "images/screenshot-ibm-learning.udemy.com-2024.01.03-22_44_34.png",
-    "images/screenshot-ibm-learning.udemy.com-2024.01.03-22_12_04.png",
     "FrameWork/Spring Boot/Async.md",
     "DevOps/2023-03-16.md",
     "Automotive.md",
     "2023-06-20.md",
-    "archive/1_ Spring.md",
-    "archive/4_ Security.md",
     "DevOps/Github Actions",
     "DevOps/Jenkins",
     "Books/Software Quality/Java Persistence with Spring Data and Hibernate Catalin Tudose",

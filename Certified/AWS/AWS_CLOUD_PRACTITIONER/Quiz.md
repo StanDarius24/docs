@@ -1476,3 +1476,101 @@ d) Reservations are available for EC2 Reserved Instances, DynamoDB Reserved Capa
 
 d) Reserved Instances are good and more cost-effective (up to 69% discount compared to On-demand pricing, depending on the upfront) for long workloads. You can reserve instances for 1 or 3 years in RDS.
 
+---
+
+- Set 16
+
+1. A company would like to use their on-premises Microsoft Active Directory to connect to its AWS resources. Which service can it use?
+	a) Directory Services
+	b) IAM Identity Center
+	c) Direct Connect
+	d) Cognito
+
+a) AWS Directory Service makes it easy for you to setup and run directories in the AWS cloud, or connect your AWS resources with an existing on-premises Microsoft Active Directory.
+
+---
+
+2. Which AWS service allows you to create temporary, limited-privilege credentials for your AWS resources?
+	a) IAM Identity Center
+	b) Security Token Service (STS)
+	c) AWS Directory Services
+	d) Amazon Cognito
+	
+b) AWS Security Token Service (AWS STS) is a web service that enables you to request temporary, limited-privilege credentials for AWS Identity and Access Management (IAM) users or for users that you authenticate (federated users).
+
+---
+
+3. A company just created a new mobile application and wants to add a simple and secure user sign-up, sign-in, and access control. Which AWS service can it use?
+	a) IAM
+	b) Cognito
+	c) Directory Services
+	d) IAM Identity Center
+
+b) Amazon Cognito lets you add user sign-up, sign-in, and access control to your web and mobile apps quickly and easily.
+
+---
+
+4. A company would like to centrally manage access to multiple AWS accounts and business applications. Which service can it use?
+	a) Organizations
+	b) Cognito
+	c) Directory Service
+	d) IAM Identity Center
+
+d) AWS IAM Identity Center is an AWS service that enables you to makes it easy to centrally manage access to multiple AWS accounts and business applications and provide users with single sign-on access to all their assigned accounts and applications from one place.
+
+---
+
+- Set 17
+
+1. You would like to convert an S3 file so it can be played on users’ devices. Which AWS service can help?
+	a) Transcribe
+	b) Elastic Transcoder
+	c) AppStream 2.0
+	d) Sumerian
+ 
+b) Amazon Elastic Transcoder is media transcoding in the cloud. It is used to convert media files from their source format into versions that will play back on devices like smartphones, tablets, and PCs.
+
+---
+
+2. You would like to access desktop applications through a browser. Which AWS service would you use?
+	a) Outposts
+	b) WorkSpaces
+	c) AppStream 2.0
+	d) EC2 Instance Connect
+
+c) Amazon AppStream 2.0 is a fully managed non-persistent application and desktop streaming service that provides users instant access to their desktop applications from anywhere.
+
+---
+
+3. Which AWS service can be used to test your application across real desktop browsers and mobile devices?
+	a) IoT Core
+	b) AppStream 2.0
+	c) WorkSpaces
+	d) Device Farm
+
+d) AWS Device Farm is an application testing service that lets you improve the quality of your web and mobile apps by testing them across an extensive range of desktop browsers and real mobile devices; without having to provision and manage any testing infrastructure.
+
+---
+
+4. Which AWS service is serverless and lets you connect billions of devices to the AWS Cloud?
+	a) Transit Gateway
+	b) Connect
+	c) Elastic Transcoder
+	d) IoT Core
+
+d) AWS IoT Core lets you securely connect IoT devices to the AWS Cloud and other devices without the need to provision or manage servers.
+
+---
+
+5. CloudEndure Disaster Recovery is used to centrally automate backups across AWS services while AWS Backup is used to quickly and easily recover servers into AWS.
+	False
+
+---
+
+6. A hybrid company would like to provision desktops to their employees so they can access securely both the AWS Cloud and their data centers. Which AWS service can help?
+	a) WorkSpaces
+	b) AppStream 2.0
+	c) Site-to-Site VPN
+	d) Sumerian
+
+a) Amazon WorkSpaces is a fully managed, secure cloud desktop service. You can use Amazon WorkSpaces to provision either Windows or Linux desktops in just a few minutes and quickly scale to provide thousands of desktops to workers across the globe.
