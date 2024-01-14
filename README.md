@@ -35,6 +35,6 @@ Software Engineer Roadmap docs
 - [x] Laur Spilca Start Here
 
 #certificate 
-- [ ] AWS Cloud Practitioner
+- [x] AWS Cloud Practitioner
 
 ---

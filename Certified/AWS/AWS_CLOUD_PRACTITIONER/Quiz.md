@@ -1574,3 +1574,76 @@ d) AWS IoT Core lets you securely connect IoT devices to the AWS Cloud and other
 	d) Sumerian
 
 a) Amazon WorkSpaces is a fully managed, secure cloud desktop service. You can use Amazon WorkSpaces to provision either Windows or Linux desktops in just a few minutes and quickly scale to provide thousands of desktops to workers across the globe.
+
+---
+
+- Set 18
+
+1) Auto Scaling in EC2 and DynamoDB are examples of?
+	a) Horizontal scaling
+
+Auto Scaling in EC2 allows you to have the right number of instances to handle the application load. Auto Scaling in DynamoDB automatically adjusts read and write throughput capacity, in response to dynamically changing request volumes, with zero downtime. These are both examples of horizontal scaling.
+
+---
+
+2) AWS Trusted Advisor can provide guidance against the 6 Well-Architected pillars and architectural best practices.
+	false
+	The AWS Well-Architected Tool helps you review the state of your workloads and compares them to the latest AWS architectural best practices. It is based on the 6 pillars of the Well-Architected Framework (Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, and Sustainability). AWS Trusted Advisor is an online tool that provides you real time guidance to help you provision your resources following AWS best practices (Cost Optimization, Performance, Security, Fault Tolerance, and Service Limits).
+
+---
+
+3) Which of the following are design principles of Performance Efficiency?
+	a) Go global in minutes & experiment more often
+	b) Analyze and attribute expenditure & stop spending money on data center operations
+	c) Make frequent, small, reversible changes & anticipate failure
+	d) Automate security best practices & keep away people from data
+
+a) Performance Efficiency design principles include: democratize advanced technologies, go global in minutes, use serverless architecture, experiment more often, mechanical sympathy.
+
+---
+
+4) Which of the following is NOT an AWS Partner Network (APN) type?
+	a) APN Technology Partners
+	b) APN SErvices Partners
+	c) APN Consulting Partners
+	d) APN Training Partners
+
+b) This is a distractor. This type of AWS Partner Network does not exist. It is made up with words related to the AWS Partner Network.
+
+---
+
+5) Testing recovery procedures, stopping guessing capacity, and managing changes in automation are design principles of Performance Efficiency.
+	false
+
+Testing recovery procedures, stopping guessing capacity, and managing changes in automation are design principles of Reliability. Performance Efficiency design principles include: democratize advanced technologies, go global in minutes, use serverless architecture, experiment more often, mechanical sympathy.
+
+---
+
+6) Which AWS service is the key to Operational Excellence?
+	a) CloudFormation
+	b) EC2
+	c) OpsWork
+	d) CodeDeploy
+
+a) CloudFormation is a key service to Operational Excellence as it prepares, operates, and evolves, but also performs operations as code.
+
+---
+
+7) AWS Cost Explorer and AWS Trusted Advisor are services examples of which Well-Architected Framework pillar?
+	a) Security
+	b) Operational Excellence
+	c) Cost Optimization
+	d) Performance Efficiency
+
+c) AWS Cost Explorer and AWS Trusted Advisor are Cost Optimization services examples. It also includes AWS Budgets, Cost and Usage Reports, etc.
+
+---
+
+8) Implementing Security Groups, NACLs, KMS, or CloudTrail reflects which Well-Architected Framework Pillar?
+	a) Reliability
+	b) Performance Efficiency
+	c) Security
+	d) Cost Optimization
+
+c) The Security pillar includes the ability to protect information, systems, and assets while delivering business value through risk assessments and mitigation strategies.
+
