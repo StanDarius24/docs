@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "57e2a1d37367c448",
+        "id": "f711e5f0594605e7",
         "type": "tabs",
         "children": [
           {
-            "id": "e93afb00d6ebda2c",
+            "id": "92aa775377ead8ea",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Screenshot 2024-01-14 at 17.03.59.png"
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Screenshot 2024-01-14 at 17.03.59.png",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Screenshot 2024-01-14 at 17.03.59.png",
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Screenshot 2024-01-14 at 17.03.59.png"
+                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md"
               }
             }
           },
@@ -174,8 +176,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e93afb00d6ebda2c",
+  "active": "92aa775377ead8ea",
   "lastOpenFiles": [
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/5. ELB & ASG Elastic Load Balancing & Auto Scaling Groups.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/4. EC2 Instance Storage.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/1. Introduction.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/16. Account Management & Billing & Support.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/15. Machine Learning.md",
+    "Certified/AWS/AWS_CLOUD_PRACTITIONER/2. IAM Identity and Access Management.md",
+    "images/Screenshot 2024-01-14 at 17.03.59.png",
     "README.md",
     "Screenshot 2024-01-14 at 16.37.21.png",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/19. AWS Architecting Ecosystem.md",
@@ -188,12 +199,8 @@
     "images/Screenshot 2024-01-14 at 17.21.50.png",
     "images/Screenshot 2024-01-14 at 17.20.17.png",
     "images/Screenshot 2024-01-14 at 17.13.14.png",
-    "images/Screenshot 2024-01-14 at 17.06.03.png",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/18. Other Services.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/17. Advanced identity.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/16. Account Management & Billing & Support.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/15. Machine Learning.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/13. VPC & Networking.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/12. Cloud Monitoring.md",
@@ -202,11 +209,6 @@
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/9. Deploying and Managing Infrastructure at Scale Section.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/8. Other Compute Services.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/7. Database.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/5. ELB & ASG Elastic Load Balancing & Auto Scaling Groups.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/4. EC2 Instance Storage.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/2. IAM Identity and Access Management.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/1. Introduction.md",
     "Duplex.md",
     "FrameWork/Spring Boot/Async.md",
     "DevOps/2023-03-16.md",
