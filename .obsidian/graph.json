@@ -62,10 +62,17 @@
         "a": 1,
         "rgb": 11621088
       }
+    },
+    {
+      "query": "path:Certified  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,

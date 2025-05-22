@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8af22eb1e4296ea9",
+        "id": "120e6b2bcb84140d",
         "type": "tabs",
         "children": [
           {
-            "id": "8bfd02986ed2e096",
+            "id": "9bc4606cd612c67c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Exam/Set 1.md",
+                "file": "Certified/Github Copilot/Presentation.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Presentation"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,22 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "4486d7f7deeec2a3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -100,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Exam/Set 1.md",
+                "file": "Certified/Github Copilot/03 - Advanced Copilot Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03 - Advanced Copilot Features"
             }
           },
           {
@@ -117,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Exam/Set 1.md",
+                "file": "Certified/Github Copilot/03 - Advanced Copilot Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03 - Advanced Copilot Features"
             }
           },
           {
@@ -131,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -140,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certified/AWS/AWS_CLOUD_PRACTITIONER/Exam/Set 1.md"
-              }
+                "file": "Certified/Github Copilot/03 - Advanced Copilot Features.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03 - Advanced Copilot Features"
             }
           },
           {
@@ -149,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -161,7 +165,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -180,49 +186,53 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bfd02986ed2e096",
+  "active": "9bc4606cd612c67c",
   "lastOpenFiles": [
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Quiz.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Exam/Set 1.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/15. Machine Learning.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/19. AWS Architecting Ecosystem.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/18. Other Services.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/17. Advanced identity.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/16. Account Management & Billing & Support.md",
+    "Security Spring.md",
+    "Screenshot 2025-05-01 at 15.44.30.png",
+    "Certified/Github Copilot/06 - Developer use cases for AI.md",
+    "Screenshot 2025-05-01 at 15.43.09.png",
+    "Screenshot 2025-05-01 at 15.37.50.png",
+    "Certified/Github Copilot/05 - Prompt engineering.md",
+    "2000x1200-Inline-Graphic.jpg",
+    "DevOps/Arhitecture/Reverse Proxy.md",
+    "DevOps/Arhitecture/VSwitch.md",
+    "DevOps/Arhitecture/Load Balancing.md",
+    "DevOps/README.md",
+    "DevOps/2023-03-16.md",
+    "DevOps/Terraform/04-Variables and Outputs.md",
+    "DevOps/Terraform/03-Terraform Overview + Setup.md",
+    "DevOps/Terraform/02-Evolution of Cloud + Infrastructure as Code.md",
+    "DevOps/Terraform/01-Introduction.md",
+    "Certified/Github Copilot/03 - Github Copilot plans and features.md",
+    "Certified/Github Copilot/02 - Advanced Copilot Features.md",
+    "Certified/Github Copilot/04 - How Copilot handles data.md",
+    "Certified/Github Copilot/01 - Introduction.md",
+    "Untitled.md",
+    "Certified/Github Copilot/Presentation.md",
+    "README.md",
+    "Scripts/Screenshot 2025-05-01 at 15.37.06.png",
+    "Certified/Github Copilot/README.md.md",
+    "Certified/Github Copilot",
+    "Certified/Terraform Associate/02 Terraform Basics.md",
+    "Certified/Terraform Associate/03.md",
+    "Certified/Terraform Associate/01 Infrastructure as Code (IAC) - Basics.md",
+    "Certified/Terraform Associate/README.md.md",
+    "Certified/Untitled.md",
+    "Certified/Terraform Associate",
+    "images/Screenshot 2024-05-26 at 16.35.14.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.05.26-16_58_04.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.05.26-16_33_24.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.05.26-16_25_30.png",
+    "images/screenshot-ibm-learning.udemy.com-2024.05.26-16_24_19.png",
+    "DevOps/Kubernetes",
     "Untitled.canvas",
-    "test.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/14. Security & Compliance.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/7. Database.md",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/Exam",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/Untitled.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/13. VPC & Networking.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/12. Cloud Monitoring.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/11. Cloud Integrations.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/10. Leveraging the AWS Global Infrastructure.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/9. Deploying and Managing Infrastructure at Scale Section.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/8. Other Compute Services.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/6. Amazon S3.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/5. ELB & ASG Elastic Load Balancing & Auto Scaling Groups.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/4. EC2 Instance Storage.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/3. EC2 - Elastic Compute Cloud.md",
-    "Tools/Kafka/01 Day.md",
     "Tools/Kafka",
-    "Tools/Untitled.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/2. IAM Identity and Access Management.md",
-    "Certified/AWS/AWS_CLOUD_PRACTITIONER/1. Introduction.md",
-    "images/Screenshot 2024-01-14 at 17.03.59.png",
-    "Screenshot 2024-01-14 at 16.37.21.png",
-    "images/Screenshot 2024-01-14 at 17.54.17.png",
-    "images/Screenshot 2024-01-14 at 17.28.17.png",
-    "images/Screenshot 2024-01-14 at 17.27.55.png",
-    "images/Screenshot 2024-01-14 at 17.26.38.png",
-    "images/Screenshot 2024-01-14 at 17.23.38.png",
-    "images/Screenshot 2024-01-14 at 17.21.50.png",
-    "images/Screenshot 2024-01-14 at 17.20.17.png",
-    "images/Screenshot 2024-01-14 at 17.13.14.png",
     "DevOps/Github Actions",
     "DevOps/Jenkins",
     "Books/Software Quality/Java Persistence with Spring Data and Hibernate Catalin Tudose",

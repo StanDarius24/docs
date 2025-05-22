@@ -1,3 +1,5 @@
+#AWS
+
 1) Which feature of the AWS Cloud will support an international company's requirement for low latency to all of its customers?
 	a) Fault tolerance
 	b) Global reach
