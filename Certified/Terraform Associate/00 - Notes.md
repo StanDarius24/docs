@@ -1,8 +1,14 @@
+Step 1: Understand Problems with Traditional way of Managing Infrastructure
+- Time it takes for building multiple environments
+- Issues we face with different environments
+- Scale-up and Scale-down on demand
 
-### Section 1: Terraform Commands Basic
-
----
----
+Step 2: Discuss how IaC with Terraform solves them
+- Visibility
+- Stability
+- Scalability
+- Security
+- Audit
 
 Step 1: Introduction
 - Understand basic Terraform Commands:

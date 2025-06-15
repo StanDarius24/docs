@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified/Github Copilot/Presentation.md",
+                "file": "Certified/Terraform Associate/01 - Understanding IaC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presentation"
+              "title": "01 - Understanding IaC"
             }
           }
         ]
@@ -192,6 +192,13 @@
   },
   "active": "9bc4606cd612c67c",
   "lastOpenFiles": [
+    "Certified/Terraform Associate/README.md.md",
+    "Certified/Terraform Associate/01 - Understanding IaC.md",
+    "Certified/Terraform Associate/00 - Notes.md",
+    "Certified/Terraform Associate/01 Infrastructure as Code (IAC) - Basics.md",
+    "Certified/Terraform Associate/03.md",
+    "Certified/Terraform Associate/02 Terraform Basics.md",
+    "Certified/Github Copilot/Presentation.md",
     "Security Spring.md",
     "Screenshot 2025-05-01 at 15.44.30.png",
     "Certified/Github Copilot/06 - Developer use cases for AI.md",
@@ -213,16 +220,10 @@
     "Certified/Github Copilot/04 - How Copilot handles data.md",
     "Certified/Github Copilot/01 - Introduction.md",
     "Untitled.md",
-    "Certified/Github Copilot/Presentation.md",
     "README.md",
     "Scripts/Screenshot 2025-05-01 at 15.37.06.png",
     "Certified/Github Copilot/README.md.md",
     "Certified/Github Copilot",
-    "Certified/Terraform Associate/02 Terraform Basics.md",
-    "Certified/Terraform Associate/03.md",
-    "Certified/Terraform Associate/01 Infrastructure as Code (IAC) - Basics.md",
-    "Certified/Terraform Associate/README.md.md",
-    "Certified/Untitled.md",
     "Certified/Terraform Associate",
     "images/Screenshot 2024-05-26 at 16.35.14.png",
     "images/screenshot-ibm-learning.udemy.com-2024.05.26-16_58_04.png",
