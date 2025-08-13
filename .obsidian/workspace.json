@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "120e6b2bcb84140d",
+        "id": "4baf15b5c5e71391",
         "type": "tabs",
         "children": [
           {
-            "id": "9bc4606cd612c67c",
+            "id": "713d6e4d65b6cd10",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20250813151456.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250813151456"
+            }
+          },
+          {
+            "id": "7f55e84af589266f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified/Terraform Associate/01 - Understanding IaC.md",
+                "file": "Certified/Terraform Associate/02 - HCL language.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Understanding IaC"
+              "title": "02 - HCL language"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,46 +203,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bc4606cd612c67c",
+  "active": "ed548165bf95ddea",
   "lastOpenFiles": [
-    "Certified/Terraform Associate/README.md.md",
+    "images/Pasted image 20250813162451.png",
+    "images/2000x1200-Inline-Graphic.jpg",
+    "images/Pasted image 20250813151456.png",
+    "Certified/Terraform Associate/02 - HCL language.md",
     "Certified/Terraform Associate/01 - Understanding IaC.md",
     "Certified/Terraform Associate/00 - Notes.md",
+    "Certified/Terraform Associate/README.md.md",
+    "Database/SQL/02-SELECT.md",
+    "Database/SQL/01-Intro.md",
+    "Database/PostgreSQL/Kill all connections session for a database.md",
+    "Database/PostgreSQL/Export Database from a container and import in your local machine.md",
+    "Database/PostgreSQL/04-The SQL Language Advanced/01-SQL Syntax/01-Lexical Structure/01-Identifiers and Key Words.md",
+    "Database/PostgreSQL/04-The SQL Language Advanced/01-SQL Syntax/01-Lexical Structure/00-README.md",
+    "Database/PostgreSQL/03-Advanced Features/05-Inheritance.md",
+    "Database/PostgreSQL/03-Advanced Features/04-Window Functions.md",
+    "Database/PostgreSQL/03-Advanced Features/03-Transactions.md",
+    "Database/PostgreSQL/03-Advanced Features/02-Foreign Keys.md",
+    "Database/PostgreSQL/03-Advanced Features/01-Views.md",
+    "Database/PostgreSQL/02-The SQL Language Basic/02-Creating a new table.md",
+    "Database/PostgreSQL/02-The SQL Language Basic/01-Concepts.md",
+    "Database/PostgreSQL/01-Getting Started/03-Accessing a Database.md",
+    "Database/PostgreSQL/01-Getting Started/02-Creating a Database.md",
+    "Database/PostgreSQL/01-Getting Started/01-Architectural Fundamentals.md",
     "Certified/Terraform Associate/01 Infrastructure as Code (IAC) - Basics.md",
     "Certified/Terraform Associate/03.md",
     "Certified/Terraform Associate/02 Terraform Basics.md",
     "Certified/Github Copilot/Presentation.md",
     "Security Spring.md",
     "Screenshot 2025-05-01 at 15.44.30.png",
-    "Certified/Github Copilot/06 - Developer use cases for AI.md",
     "Screenshot 2025-05-01 at 15.43.09.png",
     "Screenshot 2025-05-01 at 15.37.50.png",
-    "Certified/Github Copilot/05 - Prompt engineering.md",
-    "2000x1200-Inline-Graphic.jpg",
-    "DevOps/Arhitecture/Reverse Proxy.md",
-    "DevOps/Arhitecture/VSwitch.md",
-    "DevOps/Arhitecture/Load Balancing.md",
-    "DevOps/README.md",
-    "DevOps/2023-03-16.md",
-    "DevOps/Terraform/04-Variables and Outputs.md",
-    "DevOps/Terraform/03-Terraform Overview + Setup.md",
-    "DevOps/Terraform/02-Evolution of Cloud + Infrastructure as Code.md",
-    "DevOps/Terraform/01-Introduction.md",
-    "Certified/Github Copilot/03 - Github Copilot plans and features.md",
-    "Certified/Github Copilot/02 - Advanced Copilot Features.md",
-    "Certified/Github Copilot/04 - How Copilot handles data.md",
-    "Certified/Github Copilot/01 - Introduction.md",
-    "Untitled.md",
-    "README.md",
     "Scripts/Screenshot 2025-05-01 at 15.37.06.png",
-    "Certified/Github Copilot/README.md.md",
     "Certified/Github Copilot",
     "Certified/Terraform Associate",
     "images/Screenshot 2024-05-26 at 16.35.14.png",
     "images/screenshot-ibm-learning.udemy.com-2024.05.26-16_58_04.png",
     "images/screenshot-ibm-learning.udemy.com-2024.05.26-16_33_24.png",
     "images/screenshot-ibm-learning.udemy.com-2024.05.26-16_25_30.png",
-    "images/screenshot-ibm-learning.udemy.com-2024.05.26-16_24_19.png",
     "DevOps/Kubernetes",
     "Untitled.canvas",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/Exam",
