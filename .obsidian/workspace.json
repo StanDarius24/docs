@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4baf15b5c5e71391",
+        "id": "a5f9ae36ce3e28a6",
         "type": "tabs",
         "children": [
           {
-            "id": "713d6e4d65b6cd10",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20250813151456.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250813151456"
-            }
-          },
-          {
-            "id": "7f55e84af589266f",
+            "id": "0189f4042fa65726",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified/Terraform Associate/02 - HCL language.md",
+                "file": "Tools/RabbitMq/01 - What is RabbitMq.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - HCL language"
+              "title": "01 - What is RabbitMq"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -193,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -203,15 +191,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed548165bf95ddea",
+  "active": "0189f4042fa65726",
   "lastOpenFiles": [
+    "images/Screenshot 2025-10-28 at 21.54.19.png",
+    "images/Screenshot 2025-10-28 at 21.52.27.png",
+    "Certified/Oracle Cloud Infrastructure AI Foundations Associate.md",
+    "Certified/Questions.md",
+    "Certified/Terraform Associate/README.md.md",
+    "Tools/RabbitMq/01 - What is RabbitMq.md",
+    "images/Screenshot 2025-10-02 at 00.00.35.png",
+    "Tools/RabbitMq",
+    "images/Pasted image 20250813151456.png",
+    "Certified/Terraform Associate/02 - Short Example AWS.md",
+    "Certified/Terraform Associate/03 - HCL language.md",
+    "Certified/Terraform Associate/03 - Terraform concepts.md",
+    "Certified/Terraform Associate/01 - Understanding IaC.md",
     "images/Pasted image 20250813162451.png",
     "images/2000x1200-Inline-Graphic.jpg",
-    "images/Pasted image 20250813151456.png",
-    "Certified/Terraform Associate/02 - HCL language.md",
-    "Certified/Terraform Associate/01 - Understanding IaC.md",
     "Certified/Terraform Associate/00 - Notes.md",
-    "Certified/Terraform Associate/README.md.md",
     "Database/SQL/02-SELECT.md",
     "Database/SQL/01-Intro.md",
     "Database/PostgreSQL/Kill all connections session for a database.md",
@@ -228,11 +225,6 @@
     "Database/PostgreSQL/01-Getting Started/03-Accessing a Database.md",
     "Database/PostgreSQL/01-Getting Started/02-Creating a Database.md",
     "Database/PostgreSQL/01-Getting Started/01-Architectural Fundamentals.md",
-    "Certified/Terraform Associate/01 Infrastructure as Code (IAC) - Basics.md",
-    "Certified/Terraform Associate/03.md",
-    "Certified/Terraform Associate/02 Terraform Basics.md",
-    "Certified/Github Copilot/Presentation.md",
-    "Security Spring.md",
     "Screenshot 2025-05-01 at 15.44.30.png",
     "Screenshot 2025-05-01 at 15.43.09.png",
     "Screenshot 2025-05-01 at 15.37.50.png",
@@ -240,9 +232,6 @@
     "Certified/Github Copilot",
     "Certified/Terraform Associate",
     "images/Screenshot 2024-05-26 at 16.35.14.png",
-    "images/screenshot-ibm-learning.udemy.com-2024.05.26-16_58_04.png",
-    "images/screenshot-ibm-learning.udemy.com-2024.05.26-16_33_24.png",
-    "images/screenshot-ibm-learning.udemy.com-2024.05.26-16_25_30.png",
     "DevOps/Kubernetes",
     "Untitled.canvas",
     "Certified/AWS/AWS_CLOUD_PRACTITIONER/Exam",
