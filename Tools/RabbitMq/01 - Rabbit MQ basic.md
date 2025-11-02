@@ -89,7 +89,7 @@ Rather than directly publishing messages to a queue, producers send them to an e
 - Topic - The topic exchange performs a wildcard match between the routing key and the routing pattern specified in the binding
 - Fanout - A fanout exchange routes messages to all of the queues with a binding tied to the exchange.
 - Headers - A header exchange uses the message header attributes for routing purposes.
-
+![[Screenshot 2025-10-28 at 22.51.12.png]]
 ---
 
 Messages are not published directly to a queue. Instead, the producer sends messages to an exchange. Exchanges are message routing agents, living in a virtual host (vhost) within RabbitMQ. Exchanges accept messages from the producer application and route them to message queues with the help of header attributes, bindings, and routing keys.
@@ -174,4 +174,3 @@ To set arguments, the use of policies is recommended. Policies make it possible 
 Policies can be advantageously used to apply queue or exchange arguments to more than one created queue/exchange. Policies are created per vhost, with a pattern that defines where it will be applied and a parameter that defines what the policy will do.
 
 ---
-
